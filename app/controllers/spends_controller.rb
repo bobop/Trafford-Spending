@@ -9,6 +9,8 @@ class SpendsController < ApplicationController
       format.xml  { render :xml => @spends }
     end
   end
+  
+protected
 
   # GET /spends/1
   # GET /spends/1.xml

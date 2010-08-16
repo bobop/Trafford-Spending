@@ -3556,3 +3556,23 @@ Rendering template within layouts/spends
 Rendering spends/index
   [4;36;1mSpend Columns (2.3ms)[0m   [0;1mSHOW FIELDS FROM `spends`[0m
 Completed in 878ms (View: 846, DB: 10) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#new (for 127.0.0.1 at 2010-08-16 22:50:46) [GET]
+Rendering template within layouts/spends
+Rendering spends/new
+
+ActionView::TemplateError (Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id) on line #3 of app/views/spends/new.html.erb:
+1: <h1>New spend</h1>
+2: 
+3: <% form_for(@spend) do |f| %>
+4:   <%= f.error_messages %>
+5: 
+6:   <p>
+
+    app/views/spends/new.html.erb:3
+
+Rendered rescues/_trace (57.2ms)
+Rendered rescues/_request_and_response (1.6ms)
+Rendering rescues/layout (internal_server_error)
