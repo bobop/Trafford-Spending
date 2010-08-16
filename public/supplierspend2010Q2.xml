@@ -1,0 +1,5103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<supplier-spend>
+  <periods>
+    <period>
+      <start type="date">2010-04-01</start>
+      <end type="date">2010-06-30</end>
+      <record>
+        <ref>103643</ref>
+        <supplier>2E2 UK LTD</supplier>
+        <amount currency="GBP">2293</amount>
+      </record>
+      <record>
+        <ref>103893</ref>
+        <supplier>42ND STREET COMMUNITY</supplier>
+        <amount currency="GBP">8500.69</amount>
+      </record>
+      <record>
+        <ref>100523</ref>
+        <supplier>4IMPRINT DIRECT LTD</supplier>
+        <amount currency="GBP">8220.01</amount>
+      </record>
+      <record>
+        <ref>3787</ref>
+        <supplier>A G FLOORING LIMITED</supplier>
+        <amount currency="GBP">1995</amount>
+      </record>
+      <record>
+        <ref>3201</ref>
+        <supplier>A T NOLAN LTD</supplier>
+        <amount currency="GBP">61362.53</amount>
+      </record>
+      <record>
+        <ref>100395</ref>
+        <supplier>A&amp;O SYSTEMS &amp; SERVICES UK LTD</supplier>
+        <amount currency="GBP">2953</amount>
+      </record>
+      <record>
+        <ref>3825</ref>
+        <supplier>A.W. MAINTENANCE SERVICES</supplier>
+        <amount currency="GBP">801.53</amount>
+      </record>
+      <record>
+        <ref>101489</ref>
+        <supplier>A1 TRAVELRITE LTD</supplier>
+        <amount currency="GBP">14713.5</amount>
+      </record>
+      <record>
+        <ref>101946</ref>
+        <supplier>AA BUSINESS SERVICES</supplier>
+        <amount currency="GBP">2020.32</amount>
+      </record>
+      <record>
+        <ref>140921</ref>
+        <supplier>AARON COURT CARE HOME</supplier>
+        <amount currency="GBP">6072.31</amount>
+      </record>
+      <record>
+        <ref>104156</ref>
+        <supplier>ABBOTSFORD CARE HOME LTD</supplier>
+        <amount currency="GBP">15178.7</amount>
+      </record>
+      <record>
+        <ref>100851</ref>
+        <supplier>AC ENTERTAINMENT TECHNOLOGIES LTD</supplier>
+        <amount currency="GBP">1602.44</amount>
+      </record>
+      <record>
+        <ref>3965</ref>
+        <supplier>ACCESS INVESTIGATIONS &amp; REPAIRS
+        LTD</supplier>
+        <amount currency="GBP">4630</amount>
+      </record>
+      <record>
+        <ref>141672</ref>
+        <supplier>ACE CLANSMAN TRAVEL</supplier>
+        <amount currency="GBP">7530</amount>
+      </record>
+      <record>
+        <ref>3127</ref>
+        <supplier>ACORN BUILDING SERVICES LTD</supplier>
+        <amount currency="GBP">8255.55</amount>
+      </record>
+      <record>
+        <ref>101884</ref>
+        <supplier>ACORN LODGE NURSING HOME</supplier>
+        <amount currency="GBP">4940</amount>
+      </record>
+      <record>
+        <ref>136816</ref>
+        <supplier>ACORN TREATMENT &amp; HOUSING</supplier>
+        <amount currency="GBP">17643.53</amount>
+      </record>
+      <record>
+        <ref>100544</ref>
+        <supplier>ACTION FOR CHILDREN SERVICES LTD</supplier>
+        <amount currency="GBP">6250</amount>
+      </record>
+      <record>
+        <ref>129783</ref>
+        <supplier>ACTION FOR SUSTAINABLE LIVING LTD</supplier>
+        <amount currency="GBP">34000</amount>
+      </record>
+      <record>
+        <ref>3237</ref>
+        <supplier>ADAPTACARE LIMITED</supplier>
+        <amount currency="GBP">15765</amount>
+      </record>
+      <record>
+        <ref>105824</ref>
+        <supplier>ADCS LTD</supplier>
+        <amount currency="GBP">2351.25</amount>
+      </record>
+      <record>
+        <ref>141935</ref>
+        <supplier>ADDICTION DEPENDENCY SOLUTION</supplier>
+        <amount currency="GBP">32500</amount>
+      </record>
+      <record>
+        <ref>105318</ref>
+        <supplier>ADDLESHAW GODDARD LLP</supplier>
+        <amount currency="GBP">3620.2</amount>
+      </record>
+      <record>
+        <ref>143229</ref>
+        <supplier>ADJUSTING THE BALANCE LTD</supplier>
+        <amount currency="GBP">5760</amount>
+      </record>
+      <record>
+        <ref>102830</ref>
+        <supplier>ADOPTION UK</supplier>
+        <amount currency="GBP">1752</amount>
+      </record>
+      <record>
+        <ref>138373</ref>
+        <supplier>ADRIAN HAMER</supplier>
+        <amount currency="GBP">1530</amount>
+      </record>
+      <record>
+        <ref>138486</ref>
+        <supplier>AECOM LTD</supplier>
+        <amount currency="GBP">50502.88</amount>
+      </record>
+      <record>
+        <ref>100691</ref>
+        <supplier>AFRICAN &amp; CARIBBEAN MENTAL HEALTH</supplier>
+        <amount currency="GBP">21789.75</amount>
+      </record>
+      <record>
+        <ref>105196</ref>
+        <supplier>AFRICAN CARIBBEAN CARE GROUP</supplier>
+        <amount currency="GBP">25916.96</amount>
+      </record>
+      <record>
+        <ref>101598</ref>
+        <supplier>AFTER ADOPTION</supplier>
+        <amount currency="GBP">4523</amount>
+      </record>
+      <record>
+        <ref>100813</ref>
+        <supplier>AGE CONCERN TRAFFORD</supplier>
+        <amount currency="GBP">125923.82</amount>
+      </record>
+      <record>
+        <ref>126511</ref>
+        <supplier>AISHA CHILDCARE LIMITED</supplier>
+        <amount currency="GBP">18736.51</amount>
+      </record>
+      <record>
+        <ref>142244</ref>
+        <supplier>ALAN MACGREGOR</supplier>
+        <amount currency="GBP">800</amount>
+      </record>
+      <record>
+        <ref>133437</ref>
+        <supplier>ALEXIAN BROTHERS CARE CENTRE</supplier>
+        <amount currency="GBP">14754.38</amount>
+      </record>
+      <record>
+        <ref>100520</ref>
+        <supplier>ALFRED HOUSE RESIDENTIAL HOME</supplier>
+        <amount currency="GBP">9616.61</amount>
+      </record>
+      <record>
+        <ref>105973</ref>
+        <supplier>ALISON ROGERSON TRAINING LTD</supplier>
+        <amount currency="GBP">6525</amount>
+      </record>
+      <record>
+        <ref>132273</ref>
+        <supplier>ALLIANCE DISPOSABLES LTD</supplier>
+        <amount currency="GBP">4940.53</amount>
+      </record>
+      <record>
+        <ref>102669</ref>
+        <supplier>ALNESS LODGE RESIDENTIAL CARE HOME</supplier>
+        <amount currency="GBP">18218.33</amount>
+      </record>
+      <record>
+        <ref>100372</ref>
+        <supplier>ALPHA PLUS FOSTERING SERVICES</supplier>
+        <amount currency="GBP">26724.31</amount>
+      </record>
+      <record>
+        <ref>103439</ref>
+        <supplier>ALPHABETS DAY NURSERIES</supplier>
+        <amount currency="GBP">4985.4</amount>
+      </record>
+      <record>
+        <ref>100451</ref>
+        <supplier>ALTCOM 421 LTD T/A BROUSSA NURSERY</supplier>
+        <amount currency="GBP">12660.67</amount>
+      </record>
+      <record>
+        <ref>137141</ref>
+        <supplier>ALTERNATIVE FUTURES GROUP</supplier>
+        <amount currency="GBP">24913.61</amount>
+      </record>
+      <record>
+        <ref>102733</ref>
+        <supplier>ALTRINCHAM &amp; DISTRICT ATHLETIC
+        CLUB</supplier>
+        <amount currency="GBP">7087.08</amount>
+      </record>
+      <record>
+        <ref>119446</ref>
+        <supplier>ALTRINCHAM 2003 ESTATE COMPANY</supplier>
+        <amount currency="GBP">1804.75</amount>
+      </record>
+      <record>
+        <ref>101768</ref>
+        <supplier>ALTRINCHAM METHODIST CHURCH</supplier>
+        <amount currency="GBP">3100</amount>
+      </record>
+      <record>
+        <ref>103245</ref>
+        <supplier>ALTRINCHAM PET SUPPLIES</supplier>
+        <amount currency="GBP">559.5</amount>
+      </record>
+      <record>
+        <ref>116689</ref>
+        <supplier>AMANDA BEESLEY</supplier>
+        <amount currency="GBP">1440</amount>
+      </record>
+      <record>
+        <ref>133004</ref>
+        <supplier>AMBER PUBLICATIONS &amp; TRAINING LTD</supplier>
+        <amount currency="GBP">1300</amount>
+      </record>
+      <record>
+        <ref>105445</ref>
+        <supplier>ANCHOR TRUST</supplier>
+        <amount currency="GBP">17276.63</amount>
+      </record>
+      <record>
+        <ref>107707</ref>
+        <supplier>ANDERSONS INVESTMENTS T/A LOSTOCK P</supplier>
+        <amount currency="GBP">638.6</amount>
+      </record>
+      <record>
+        <ref>142047</ref>
+        <supplier>ANE FREED-KERNIS</supplier>
+        <amount currency="GBP">600</amount>
+      </record>
+      <record>
+        <ref>122051</ref>
+        <supplier>ANGELA FAGAN</supplier>
+        <amount currency="GBP">1400</amount>
+      </record>
+      <record>
+        <ref>137554</ref>
+        <supplier>ANGELA HARRISON LTD</supplier>
+        <amount currency="GBP">7172.42</amount>
+      </record>
+      <record>
+        <ref>103657</ref>
+        <supplier>ANIMAL WARDENS LTD</supplier>
+        <amount currency="GBP">4975.09</amount>
+      </record>
+      <record>
+        <ref>100306</ref>
+        <supplier>ANN CHALLIS HOME FOR LADIES</supplier>
+        <amount currency="GBP">80077.49</amount>
+      </record>
+      <record>
+        <ref>138064</ref>
+        <supplier>ANN PRESTON</supplier>
+        <amount currency="GBP">920</amount>
+      </record>
+      <record>
+        <ref>135029</ref>
+        <supplier>ANNETTE P GUMBS</supplier>
+        <amount currency="GBP">1277.81</amount>
+      </record>
+      <record>
+        <ref>142807</ref>
+        <supplier>ANNETTE WEBSTER</supplier>
+        <amount currency="GBP">4500</amount>
+      </record>
+      <record>
+        <ref>3875</ref>
+        <supplier>ANSA ELEVATORS LTD</supplier>
+        <amount currency="GBP">5097.86</amount>
+      </record>
+      <record>
+        <ref>100819</ref>
+        <supplier>ANSELL AND BAILEY ARCHITECTS</supplier>
+        <amount currency="GBP">35000</amount>
+      </record>
+      <record>
+        <ref>140689</ref>
+        <supplier>ANTI-GRAFFITI SERVICES LIMITED</supplier>
+        <amount currency="GBP">4108.03</amount>
+      </record>
+      <record>
+        <ref>118794</ref>
+        <supplier>AON LIMITED</supplier>
+        <amount currency="GBP">602737.55</amount>
+      </record>
+      <record>
+        <ref>142505</ref>
+        <supplier>APCOA PARKING UK LTD</supplier>
+        <amount currency="GBP">135750.08</amount>
+      </record>
+      <record>
+        <ref>102095</ref>
+        <supplier>APEX NURSING &amp; CARE SERVICES LTD</supplier>
+        <amount currency="GBP">23275.25</amount>
+      </record>
+      <record>
+        <ref>136496</ref>
+        <supplier>APPLE RETAIL UK LIMITED</supplier>
+        <amount currency="GBP">3056.71</amount>
+      </record>
+      <record>
+        <ref>110162</ref>
+        <supplier>APPROVED MENTAL HEALTH PRACITONERS</supplier>
+        <amount currency="GBP">800</amount>
+      </record>
+      <record>
+        <ref>102767</ref>
+        <supplier>APSE</supplier>
+        <amount currency="GBP">3435</amount>
+      </record>
+      <record>
+        <ref>129636</ref>
+        <supplier>AQUALEASE LIMITED</supplier>
+        <amount currency="GBP">588</amount>
+      </record>
+      <record>
+        <ref>101147</ref>
+        <supplier>ARCO LTD</supplier>
+        <amount currency="GBP">4572.89</amount>
+      </record>
+      <record>
+        <ref>103835</ref>
+        <supplier>ARNFIELD CARE LTD</supplier>
+        <amount currency="GBP">70959</amount>
+      </record>
+      <record>
+        <ref>132698</ref>
+        <supplier>ARRIVA NORTH WEST LTD</supplier>
+        <amount currency="GBP">1100</amount>
+      </record>
+      <record>
+        <ref>110197</ref>
+        <supplier>ARTS ABOUT MANCHESTER LTD</supplier>
+        <amount currency="GBP">1350</amount>
+      </record>
+      <record>
+        <ref>136092</ref>
+        <supplier>ARTSCAPE MANCHESTER CIC</supplier>
+        <amount currency="GBP">4250</amount>
+      </record>
+      <record>
+        <ref>117346</ref>
+        <supplier>ARVAL UK LTD</supplier>
+        <amount currency="GBP">101629.39</amount>
+      </record>
+      <record>
+        <ref>135672</ref>
+        <supplier>ASH INFORMATION SYSTEMS LIMITED</supplier>
+        <amount currency="GBP">950</amount>
+      </record>
+      <record>
+        <ref>100327</ref>
+        <supplier>ASHBOURNE HEALTHCARE</supplier>
+        <amount currency="GBP">38835.08</amount>
+      </record>
+      <record>
+        <ref>101797</ref>
+        <supplier>ASHBOURNE HOMES LTD</supplier>
+        <amount currency="GBP">5629.9</amount>
+      </record>
+      <record>
+        <ref>103227</ref>
+        <supplier>ASHTEAD PLANT HIRE CO LTD</supplier>
+        <amount currency="GBP">2484</amount>
+      </record>
+      <record>
+        <ref>142468</ref>
+        <supplier>ASSIST MANAGED SERVICES LIMITED</supplier>
+        <amount currency="GBP">4995</amount>
+      </record>
+      <record>
+        <ref>140299</ref>
+        <supplier>Association of Electoral
+        Administrators</supplier>
+        <amount currency="GBP">1241</amount>
+      </record>
+      <record>
+        <ref>119383</ref>
+        <supplier>ATKINS LIMITED</supplier>
+        <amount currency="GBP">11200</amount>
+      </record>
+      <record>
+        <ref>140307</ref>
+        <supplier>AUDEN HOUSE RESIDENTIAL HOME</supplier>
+        <amount currency="GBP">11920.19</amount>
+      </record>
+      <record>
+        <ref>100341</ref>
+        <supplier>AUDIT COMMISSION</supplier>
+        <amount currency="GBP">54852.2</amount>
+      </record>
+      <record>
+        <ref>104100</ref>
+        <supplier>AUTISM INITIATIVES</supplier>
+        <amount currency="GBP">207047.01</amount>
+      </record>
+      <record>
+        <ref>127230</ref>
+        <supplier>AUTISM PARTNERSHIP</supplier>
+        <amount currency="GBP">5383.44</amount>
+      </record>
+      <record>
+        <ref>126262</ref>
+        <supplier>AUTISTIC SOCIETY GREATER M/CR AREA</supplier>
+        <amount currency="GBP">7500</amount>
+      </record>
+      <record>
+        <ref>141636</ref>
+        <supplier>AVENSWOOD</supplier>
+        <amount currency="GBP">5671.91</amount>
+      </record>
+      <record>
+        <ref>143450</ref>
+        <supplier>AVERY HOMES MOSTON LTD</supplier>
+        <amount currency="GBP">2773.07</amount>
+      </record>
+      <record>
+        <ref>100600</ref>
+        <supplier>AWARD SCHEME LTD</supplier>
+        <amount currency="GBP">4035</amount>
+      </record>
+      <record>
+        <ref>116181</ref>
+        <supplier>AXON BIRCH LTD</supplier>
+        <amount currency="GBP">2120</amount>
+      </record>
+      <record>
+        <ref>138660</ref>
+        <supplier>B &amp; P FOX T/A PYMGATE REST HOME</supplier>
+        <amount currency="GBP">4419.99</amount>
+      </record>
+      <record>
+        <ref>108578</ref>
+        <supplier>B&amp;S TRAVEL LIMITED</supplier>
+        <amount currency="GBP">26465</amount>
+      </record>
+      <record>
+        <ref>127455</ref>
+        <supplier>BALMORAL HOUSE</supplier>
+        <amount currency="GBP">4959.25</amount>
+      </record>
+      <record>
+        <ref>105140</ref>
+        <supplier>BARCLAYCARD MERCHANT SERVICES</supplier>
+        <amount currency="GBP">10987.72</amount>
+      </record>
+      <record>
+        <ref>104094</ref>
+        <supplier>BARKER CARE LTD T/A SOUTHFIELD MANO</supplier>
+        <amount currency="GBP">68507.8</amount>
+      </record>
+      <record>
+        <ref>114247</ref>
+        <supplier>BARNARDO'S</supplier>
+        <amount currency="GBP">4000</amount>
+      </record>
+      <record>
+        <ref>141945</ref>
+        <supplier>BARRY SKILLIN</supplier>
+        <amount currency="GBP">535</amount>
+      </record>
+      <record>
+        <ref>123367</ref>
+        <supplier>BARTON CLOUGH PRE-SCHOOL</supplier>
+        <amount currency="GBP">4224.8</amount>
+      </record>
+      <record>
+        <ref>104163</ref>
+        <supplier>BBC AUDIOBOOKS LTD</supplier>
+        <amount currency="GBP">822.5</amount>
+      </record>
+      <record>
+        <ref>136034</ref>
+        <supplier>BDF SOLUTIONS LTD</supplier>
+        <amount currency="GBP">515</amount>
+      </record>
+      <record>
+        <ref>122148</ref>
+        <supplier>BDMA LTD</supplier>
+        <amount currency="GBP">4500</amount>
+      </record>
+      <record>
+        <ref>124303</ref>
+        <supplier>BDS CONSULTANTS</supplier>
+        <amount currency="GBP">1228</amount>
+      </record>
+      <record>
+        <ref>142058</ref>
+        <supplier>BEACON RESEARCH</supplier>
+        <amount currency="GBP">2010.46</amount>
+      </record>
+      <record>
+        <ref>138565</ref>
+        <supplier>BEDSPACE NORTHWEST LTD</supplier>
+        <amount currency="GBP">3578.8</amount>
+      </record>
+      <record>
+        <ref>132007</ref>
+        <supplier>BEDSPACE RESOURCE LTD</supplier>
+        <amount currency="GBP">86642.65</amount>
+      </record>
+      <record>
+        <ref>100775</ref>
+        <supplier>BEECH HOUSE PARTINGTON LTD</supplier>
+        <amount currency="GBP">78073.14</amount>
+      </record>
+      <record>
+        <ref>103499</ref>
+        <supplier>BEECHES DAY NURSERY</supplier>
+        <amount currency="GBP">10380.58</amount>
+      </record>
+      <record>
+        <ref>140763</ref>
+        <supplier>BENJAMIN KNIGHT</supplier>
+        <amount currency="GBP">1170</amount>
+      </record>
+      <record>
+        <ref>137608</ref>
+        <supplier>BENNETT HOMES LTD</supplier>
+        <amount currency="GBP">507</amount>
+      </record>
+      <record>
+        <ref>130369</ref>
+        <supplier>BENTLEY JENNISON</supplier>
+        <amount currency="GBP">103764.21</amount>
+      </record>
+      <record>
+        <ref>102525</ref>
+        <supplier>BERESFORD BLAKE THOMAS LTD</supplier>
+        <amount currency="GBP">614.22</amount>
+      </record>
+      <record>
+        <ref>3211</ref>
+        <supplier>BERESFORD BUILDING CONTRACTORS LTD</supplier>
+        <amount currency="GBP">25501.5</amount>
+      </record>
+      <record>
+        <ref>108277</ref>
+        <supplier>BERRYS</supplier>
+        <amount currency="GBP">2742.5</amount>
+      </record>
+      <record>
+        <ref>100063</ref>
+        <supplier>BERTRAMS GROUP LTD</supplier>
+        <amount currency="GBP">27705.46</amount>
+      </record>
+      <record>
+        <ref>100926</ref>
+        <supplier>BEVERLEY PARK NURSING HOME</supplier>
+        <amount currency="GBP">58371.52</amount>
+      </record>
+      <record>
+        <ref>103781</ref>
+        <supplier>BICKHAM HOUSE</supplier>
+        <amount currency="GBP">18629.02</amount>
+      </record>
+      <record>
+        <ref>136026</ref>
+        <supplier>BIG LIFE CENTRES</supplier>
+        <amount currency="GBP">17917.79</amount>
+      </record>
+      <record>
+        <ref>137066</ref>
+        <supplier>BIG LIFE COMPANY</supplier>
+        <amount currency="GBP">35000</amount>
+      </record>
+      <record>
+        <ref>138584</ref>
+        <supplier>BIKERIGHT LTD</supplier>
+        <amount currency="GBP">980</amount>
+      </record>
+      <record>
+        <ref>140000</ref>
+        <supplier>BIP SOLUTIONS LTD</supplier>
+        <amount currency="GBP">560</amount>
+      </record>
+      <record>
+        <ref>3123</ref>
+        <supplier>BLACKBURN &amp; MURGATROYD LTD</supplier>
+        <amount currency="GBP">3530.88</amount>
+      </record>
+      <record>
+        <ref>141779</ref>
+        <supplier>BLACKPOOL FYLDE &amp; WYRE SOC FOR THE</supplier>
+        <amount currency="GBP">1591.8</amount>
+      </record>
+      <record>
+        <ref>141524</ref>
+        <supplier>BLUE 14 LTD</supplier>
+        <amount currency="GBP">25193.87</amount>
+      </record>
+      <record>
+        <ref>142060</ref>
+        <supplier>BLUESCI</supplier>
+        <amount currency="GBP">31189.9</amount>
+      </record>
+      <record>
+        <ref>140975</ref>
+        <supplier>BLUNDERBUS THEATRE COMPANY</supplier>
+        <amount currency="GBP">937.4</amount>
+      </record>
+      <record>
+        <ref>114357</ref>
+        <supplier>BOLTON COMMUNITY COLLEGE</supplier>
+        <amount currency="GBP">820</amount>
+      </record>
+      <record>
+        <ref>112309</ref>
+        <supplier>BON APPETIT CATERING LTD</supplier>
+        <amount currency="GBP">1000</amount>
+      </record>
+      <record>
+        <ref>104219</ref>
+        <supplier>BOOTS THE CHEMIST</supplier>
+        <amount currency="GBP">1239.3</amount>
+      </record>
+      <record>
+        <ref>100588</ref>
+        <supplier>BOROUGH CARE LTD</supplier>
+        <amount currency="GBP">18272.16</amount>
+      </record>
+      <record>
+        <ref>132782</ref>
+        <supplier>BOROUGH OF POOLE</supplier>
+        <amount currency="GBP">1411.43</amount>
+      </record>
+      <record>
+        <ref>123467</ref>
+        <supplier>BOSTOCK MARKETING GROUP LTD</supplier>
+        <amount currency="GBP">4811</amount>
+      </record>
+      <record>
+        <ref>100420</ref>
+        <supplier>BRADLEY HOUSE LIMITED</supplier>
+        <amount currency="GBP">113354.25</amount>
+      </record>
+      <record>
+        <ref>Various</ref>
+        <supplier>BRAKE BROS LTD</supplier>
+        <amount currency="GBP">38554.08</amount>
+      </record>
+      <record>
+        <ref>138004</ref>
+        <supplier>BRIDGE CARE RESIDENTIAL LTD</supplier>
+        <amount currency="GBP">5518.75</amount>
+      </record>
+      <record>
+        <ref>143176</ref>
+        <supplier>BRIDGE4LEARNING</supplier>
+        <amount currency="GBP">8832</amount>
+      </record>
+      <record>
+        <ref>140207</ref>
+        <supplier>BRIDGEWATER MARINA LTD</supplier>
+        <amount currency="GBP">3241.87</amount>
+      </record>
+      <record>
+        <ref>117783</ref>
+        <supplier>BRIGGS SIGNS LTD</supplier>
+        <amount currency="GBP">3443</amount>
+      </record>
+      <record>
+        <ref>126515</ref>
+        <supplier>BRIGHT FUTURES (2003) LTD</supplier>
+        <amount currency="GBP">5445.15</amount>
+      </record>
+      <record>
+        <ref>102874</ref>
+        <supplier>BRIGHT HORIZONS FAMILY SOLUTIONS LT</supplier>
+        <amount currency="GBP">22825.05</amount>
+      </record>
+      <record>
+        <ref>101605</ref>
+        <supplier>BRITISH ASSOC FOR ADOPTION &amp;
+        FOSTER</supplier>
+        <amount currency="GBP">2795.85</amount>
+      </record>
+      <record>
+        <ref>130553</ref>
+        <supplier>BRITISH GAS BUSINESS</supplier>
+        <amount currency="GBP">3010.69</amount>
+      </record>
+      <record>
+        <ref>102024</ref>
+        <supplier>BRITISH TELECOMMUNICATIONS LTD</supplier>
+        <amount currency="GBP">139501.15</amount>
+      </record>
+      <record>
+        <ref>101340</ref>
+        <supplier>BROCKLEHURST SKIP HIRE</supplier>
+        <amount currency="GBP">2540</amount>
+      </record>
+      <record>
+        <ref>136497</ref>
+        <supplier>BROMLEY HYDE &amp; ROBINSON</supplier>
+        <amount currency="GBP">733.66</amount>
+      </record>
+      <record>
+        <ref>102061</ref>
+        <supplier>BROOKFIELD NURSING HOME</supplier>
+        <amount currency="GBP">79297.08</amount>
+      </record>
+      <record>
+        <ref>100447</ref>
+        <supplier>BROUGHTON HOUSE HOME FOR EXSERVICE</supplier>
+        <amount currency="GBP">814.29</amount>
+      </record>
+      <record>
+        <ref>100233</ref>
+        <supplier>BT BUSINESS DIRECT LTD</supplier>
+        <amount currency="GBP">775.55</amount>
+      </record>
+      <record>
+        <ref>113817</ref>
+        <supplier>BUCKLAND HARVESTER INSUR BROKERS LT</supplier>
+        <amount currency="GBP">1424.85</amount>
+      </record>
+      <record>
+        <ref>102288</ref>
+        <supplier>BUPA CARE HOMES</supplier>
+        <amount currency="GBP">186376.79</amount>
+      </record>
+      <record>
+        <ref>101810</ref>
+        <supplier>BUPA CARE HOMES - BARTON BROOK</supplier>
+        <amount currency="GBP">236239.21</amount>
+      </record>
+      <record>
+        <ref>101798</ref>
+        <supplier>BUPA CARE HOMES - BEDFORD</supplier>
+        <amount currency="GBP">9837.26</amount>
+      </record>
+      <record>
+        <ref>103531</ref>
+        <supplier>BUPA CARE HOMES - CARDERS COURT</supplier>
+        <amount currency="GBP">5077.28</amount>
+      </record>
+      <record>
+        <ref>127280</ref>
+        <supplier>BUPA CARE HOMES - COLD SPRINGS PARK</supplier>
+        <amount currency="GBP">5344.82</amount>
+      </record>
+      <record>
+        <ref>105061</ref>
+        <supplier>BUPA CARE HOMES - DOVE COURT</supplier>
+        <amount currency="GBP">4125.55</amount>
+      </record>
+      <record>
+        <ref>101355</ref>
+        <supplier>BUPA CARE HOMES - GORTON PARKS</supplier>
+        <amount currency="GBP">16970.44</amount>
+      </record>
+      <record>
+        <ref>110248</ref>
+        <supplier>BUPA CARE HOMES - HAZELMERE HOUSE</supplier>
+        <amount currency="GBP">7800.01</amount>
+      </record>
+      <record>
+        <ref>105211</ref>
+        <supplier>BUPA CARE HOMES - MILL VIEW</supplier>
+        <amount currency="GBP">5245.9</amount>
+      </record>
+      <record>
+        <ref>104994</ref>
+        <supplier>BUPA CARE HOMES - RIVERBANK</supplier>
+        <amount currency="GBP">5837.01</amount>
+      </record>
+      <record>
+        <ref>102033</ref>
+        <supplier>BUPA CARE HOMES - WOODEND NURSING</supplier>
+        <amount currency="GBP">143955.68</amount>
+      </record>
+      <record>
+        <ref>134917</ref>
+        <supplier>BUPA CARE SERVICES - BROOKVIEW</supplier>
+        <amount currency="GBP">10517.63</amount>
+      </record>
+      <record>
+        <ref>135633</ref>
+        <supplier>BUSINESS MOVES LTD</supplier>
+        <amount currency="GBP">759.57</amount>
+      </record>
+      <record>
+        <ref>119551</ref>
+        <supplier>BUZZ COMEDY</supplier>
+        <amount currency="GBP">700</amount>
+      </record>
+      <record>
+        <ref>3622</ref>
+        <supplier>BYRNE SURFACING LIMITED</supplier>
+        <amount currency="GBP">17059.16</amount>
+      </record>
+      <record>
+        <ref>111155</ref>
+        <supplier>BYTES SOFTWARE SERVICES</supplier>
+        <amount currency="GBP">17750.02</amount>
+      </record>
+      <record>
+        <ref>143050</ref>
+        <supplier>C&amp;D SYSTEMS LTD</supplier>
+        <amount currency="GBP">3534</amount>
+      </record>
+      <record>
+        <ref>138364</ref>
+        <supplier>CACI LIMITED</supplier>
+        <amount currency="GBP">4644</amount>
+      </record>
+      <record>
+        <ref>118837</ref>
+        <supplier>CADLINE LTD</supplier>
+        <amount currency="GBP">8050.01</amount>
+      </record>
+      <record>
+        <ref>100879</ref>
+        <supplier>CALDERSTONES PARTNERSHIP NHS TRUST</supplier>
+        <amount currency="GBP">658405.24</amount>
+      </record>
+      <record>
+        <ref>101891</ref>
+        <supplier>CAMPHILL VILLAGE TRUST LTD</supplier>
+        <amount currency="GBP">649.08</amount>
+      </record>
+      <record>
+        <ref>101936</ref>
+        <supplier>CAPITA BUSINESS SERVICES LTD</supplier>
+        <amount currency="GBP">106525.21</amount>
+      </record>
+      <record>
+        <ref>138624</ref>
+        <supplier>CARE QUALITY COMMISSION</supplier>
+        <amount currency="GBP">1242</amount>
+      </record>
+      <record>
+        <ref>131039</ref>
+        <supplier>CARE TODAY CHILDREN SERVICES</supplier>
+        <amount currency="GBP">29500</amount>
+      </record>
+      <record>
+        <ref>116729</ref>
+        <supplier>CARECONCEPTS LTD</supplier>
+        <amount currency="GBP">47742.22</amount>
+      </record>
+      <record>
+        <ref>137661</ref>
+        <supplier>CAREER VISION LTD</supplier>
+        <amount currency="GBP">960</amount>
+      </record>
+      <record>
+        <ref>3094</ref>
+        <supplier>CAREFREE</supplier>
+        <amount currency="GBP">9878.65</amount>
+      </record>
+      <record>
+        <ref>132174</ref>
+        <supplier>CAROL MARSALL</supplier>
+        <amount currency="GBP">900</amount>
+      </record>
+      <record>
+        <ref>100239</ref>
+        <supplier>CARRINGTON BUSINESS PARK LIMITED</supplier>
+        <amount currency="GBP">1650</amount>
+      </record>
+      <record>
+        <ref>101987</ref>
+        <supplier>CARRINGTON PARISH COUNCIL</supplier>
+        <amount currency="GBP">1739</amount>
+      </record>
+      <record>
+        <ref>101338</ref>
+        <supplier>CARSVILLE COACHES LTD</supplier>
+        <amount currency="GBP">1350</amount>
+      </record>
+      <record>
+        <ref>143379</ref>
+        <supplier>CARTER BROWN ASSOCIATES</supplier>
+        <amount currency="GBP">5019.53</amount>
+      </record>
+      <record>
+        <ref>115287</ref>
+        <supplier>CASCAID LTD</supplier>
+        <amount currency="GBP">7500</amount>
+      </record>
+      <record>
+        <ref>101708</ref>
+        <supplier>CASTINGS SERVICES LIMITED</supplier>
+        <amount currency="GBP">9725.26</amount>
+      </record>
+      <record>
+        <ref>134200</ref>
+        <supplier>CASTLEBECK CARE (TEESDALE) LTD</supplier>
+        <amount currency="GBP">19320.99</amount>
+      </record>
+      <record>
+        <ref>142730</ref>
+        <supplier>CATHERINE CONNOR</supplier>
+        <amount currency="GBP">913.24</amount>
+      </record>
+      <record>
+        <ref>140524</ref>
+        <supplier>CATHY RUSHFORTH</supplier>
+        <amount currency="GBP">525</amount>
+      </record>
+      <record>
+        <ref>101980</ref>
+        <supplier>CBS OUTDOOR LTD</supplier>
+        <amount currency="GBP">9393.58</amount>
+      </record>
+      <record>
+        <ref>102285</ref>
+        <supplier>CEDARS REST HOME</supplier>
+        <amount currency="GBP">86314.07</amount>
+      </record>
+      <record>
+        <ref>142472</ref>
+        <supplier>CEMEX UK MATERIALS LTD</supplier>
+        <amount currency="GBP">12616.69</amount>
+      </record>
+      <record>
+        <ref>113647</ref>
+        <supplier>CENTAUR TRAINING LTD</supplier>
+        <amount currency="GBP">1300</amount>
+      </record>
+      <record>
+        <ref>107995</ref>
+        <supplier>CENTRE FOR EDUCATION &amp; FINANCE MGT</supplier>
+        <amount currency="GBP">19396.1</amount>
+      </record>
+      <record>
+        <ref>102924</ref>
+        <supplier>CHADDERTON TOTAL-CARE UNIT LTD</supplier>
+        <amount currency="GBP">5590.01</amount>
+      </record>
+      <record>
+        <ref>101842</ref>
+        <supplier>CHAIGELEY EDUCATIONAL FOUNDATION</supplier>
+        <amount currency="GBP">35807.84</amount>
+      </record>
+      <record>
+        <ref>105825</ref>
+        <supplier>CHARTMEDIA</supplier>
+        <amount currency="GBP">840</amount>
+      </record>
+      <record>
+        <ref>132372</ref>
+        <supplier>CHERUBS 2000 LIMITED</supplier>
+        <amount currency="GBP">2678.56</amount>
+      </record>
+      <record>
+        <ref>141102</ref>
+        <supplier>CHESHIRE &amp; WIRRAL</supplier>
+        <amount currency="GBP">280057</amount>
+      </record>
+      <record>
+        <ref>105753</ref>
+        <supplier>CHESHIRE HOUSE LTD</supplier>
+        <amount currency="GBP">73279.75</amount>
+      </record>
+      <record>
+        <ref>121208</ref>
+        <supplier>CHESTER ROAD PRIVATE DAY NURSERY</supplier>
+        <amount currency="GBP">8143</amount>
+      </record>
+      <record>
+        <ref>136702</ref>
+        <supplier>CHEVIOT RECRUITMENT LTD</supplier>
+        <amount currency="GBP">2250.23</amount>
+      </record>
+      <record>
+        <ref>137592</ref>
+        <supplier>CHICKEN JOES LTD</supplier>
+        <amount currency="GBP">1003.8</amount>
+      </record>
+      <record>
+        <ref>140292</ref>
+        <supplier>CHIEF CULTURAL LEISURE OFFICERS ASS</supplier>
+        <amount currency="GBP">1750</amount>
+      </record>
+      <record>
+        <ref>111992</ref>
+        <supplier>CHILD THERAPY SERVICES LTD</supplier>
+        <amount currency="GBP">6911</amount>
+      </record>
+      <record>
+        <ref>142008</ref>
+        <supplier>CHILDREN ACT ENTERPRISES LTD</supplier>
+        <amount currency="GBP">6337.5</amount>
+      </record>
+      <record>
+        <ref>103591</ref>
+        <supplier>CHISLEHURST CARE LTD</supplier>
+        <amount currency="GBP">7322.65</amount>
+      </record>
+      <record>
+        <ref>3024</ref>
+        <supplier>CHRIS HOVINGTON JOINER &amp; BUILDER</supplier>
+        <amount currency="GBP">9812</amount>
+      </record>
+      <record>
+        <ref>4085</ref>
+        <supplier>CHRIS PENNY BATHROOMS &amp; BUILDING
+        SE</supplier>
+        <amount currency="GBP">4770</amount>
+      </record>
+      <record>
+        <ref>3981</ref>
+        <supplier>CHUBB (CCTV &amp; ALARM MAINTENANCE
+        ONL</supplier>
+        <amount currency="GBP">17429.43</amount>
+      </record>
+      <record>
+        <ref>101973</ref>
+        <supplier>CHUBB (INTRUDER &amp; FIRE ALARMS
+        ONLY)</supplier>
+        <amount currency="GBP">643</amount>
+      </record>
+      <record>
+        <ref>101378</ref>
+        <supplier>CHUM ENGINEERING LIMITED</supplier>
+        <amount currency="GBP">520</amount>
+      </record>
+      <record>
+        <ref>124790</ref>
+        <supplier>CIEH</supplier>
+        <amount currency="GBP">513.8</amount>
+      </record>
+      <record>
+        <ref>103550</ref>
+        <supplier>CIPFA - CENTRAL FINANCE</supplier>
+        <amount currency="GBP">5515</amount>
+      </record>
+      <record>
+        <ref>140172</ref>
+        <supplier>CIPFA BUSINESS LIMITED</supplier>
+        <amount currency="GBP">17809.01</amount>
+      </record>
+      <record>
+        <ref>3796</ref>
+        <supplier>CITY BUILD MANCHESTER LIMITED</supplier>
+        <amount currency="GBP">118391.56</amount>
+      </record>
+      <record>
+        <ref>100212</ref>
+        <supplier>CITY ELECTRICAL FACTORS LTD</supplier>
+        <amount currency="GBP">983.32</amount>
+      </record>
+      <record>
+        <ref>127329</ref>
+        <supplier>CIVICA UK LTD</supplier>
+        <amount currency="GBP">50659.77</amount>
+      </record>
+      <record>
+        <ref>139901</ref>
+        <supplier>CLARE PORTER-PHILLIPS</supplier>
+        <amount currency="GBP">558.13</amount>
+      </record>
+      <record>
+        <ref>102286</ref>
+        <supplier>CLAREMONT RESIDENTIAL HOME UK LTD</supplier>
+        <amount currency="GBP">36475.61</amount>
+      </record>
+      <record>
+        <ref>131513</ref>
+        <supplier>CLIVE HAMPTON</supplier>
+        <amount currency="GBP">3261.85</amount>
+      </record>
+      <record>
+        <ref>3241</ref>
+        <supplier>CLONSHALL LTD T/A YOUNG &amp; CO</supplier>
+        <amount currency="GBP">3403.33</amount>
+      </record>
+      <record>
+        <ref>100741</ref>
+        <supplier>CLS CARE SERVICES LTD</supplier>
+        <amount currency="GBP">5005.13</amount>
+      </record>
+      <record>
+        <ref>101342</ref>
+        <supplier>CLYDE COURT NURSING HOME</supplier>
+        <amount currency="GBP">20742.81</amount>
+      </record>
+      <record>
+        <ref>102052</ref>
+        <supplier>COFATHEC SALE PFI LTD</supplier>
+        <amount currency="GBP">348961.71</amount>
+      </record>
+      <record>
+        <ref>138301</ref>
+        <supplier>COFELY LTD</supplier>
+        <amount currency="GBP">644.6</amount>
+      </record>
+      <record>
+        <ref>135485</ref>
+        <supplier>COFFEY GEOTECHNICS LTD</supplier>
+        <amount currency="GBP">5748.8</amount>
+      </record>
+      <record>
+        <ref>3656</ref>
+        <supplier>COLAS LIMITED</supplier>
+        <amount currency="GBP">79839.97</amount>
+      </record>
+      <record>
+        <ref>143319</ref>
+        <supplier>COLEG MENAI</supplier>
+        <amount currency="GBP">3124.8</amount>
+      </record>
+      <record>
+        <ref>135481</ref>
+        <supplier>COMENSURA LTD</supplier>
+        <amount currency="GBP">952348.64</amount>
+      </record>
+      <record>
+        <ref>104441</ref>
+        <supplier>COMET GROUP PLC</supplier>
+        <amount currency="GBP">3268.71</amount>
+      </record>
+      <record>
+        <ref>141954</ref>
+        <supplier>COMMANDO JOES LTD</supplier>
+        <amount currency="GBP">2500</amount>
+      </record>
+      <record>
+        <ref>111097</ref>
+        <supplier>COMMUNITY FOUNDATION FOR GREATER M/</supplier>
+        <amount currency="GBP">9166.68</amount>
+      </record>
+      <record>
+        <ref>134699</ref>
+        <supplier>COMMUNITY INTEGRATED CARE</supplier>
+        <amount currency="GBP">3400.8</amount>
+      </record>
+      <record>
+        <ref>101288</ref>
+        <supplier>COMMUNITY PRODUCTS (UK) LTD</supplier>
+        <amount currency="GBP">793</amount>
+      </record>
+      <record>
+        <ref>136422</ref>
+        <supplier>COMMUNITY SPORTS LTD</supplier>
+        <amount currency="GBP">3375</amount>
+      </record>
+      <record>
+        <ref>122045</ref>
+        <supplier>COMPUTER DISPOSALS LTD</supplier>
+        <amount currency="GBP">555</amount>
+      </record>
+      <record>
+        <ref>100004</ref>
+        <supplier>COMPUTERSHARE ELECTORAL MAN SERVICE</supplier>
+        <amount currency="GBP">14000</amount>
+      </record>
+      <record>
+        <ref>101531</ref>
+        <supplier>CONCEPT CARE</supplier>
+        <amount currency="GBP">1240.92</amount>
+      </record>
+      <record>
+        <ref>103279</ref>
+        <supplier>CONCEPTS IN EDUCATION LTD</supplier>
+        <amount currency="GBP">1600</amount>
+      </record>
+      <record>
+        <ref>142695</ref>
+        <supplier>CONCORDIA EDUCATION &amp; TRAINING LLP</supplier>
+        <amount currency="GBP">1485</amount>
+      </record>
+      <record>
+        <ref>104092</ref>
+        <supplier>CONIFERS NURSING HOME</supplier>
+        <amount currency="GBP">55734.38</amount>
+      </record>
+      <record>
+        <ref>100548</ref>
+        <supplier>CONIFERS REST HOME</supplier>
+        <amount currency="GBP">40876.99</amount>
+      </record>
+      <record>
+        <ref>131749</ref>
+        <supplier>CONNECT PHYSICAL HEALTH CENTRES LTD</supplier>
+        <amount currency="GBP">9053</amount>
+      </record>
+      <record>
+        <ref>131090</ref>
+        <supplier>CONNEXIONS CHESHIRE &amp; WARRINGTON
+        LT</supplier>
+        <amount currency="GBP">850</amount>
+      </record>
+      <record>
+        <ref>133128</ref>
+        <supplier>CONSTRUCTION SKILLS</supplier>
+        <amount currency="GBP">595</amount>
+      </record>
+      <record>
+        <ref>134526</ref>
+        <supplier>CONTINUUM CARE EDUCATION GROUP LTD</supplier>
+        <amount currency="GBP">44508.34</amount>
+      </record>
+      <record>
+        <ref>116571</ref>
+        <supplier>CONTINYOU SOLUTIONS LTD</supplier>
+        <amount currency="GBP">1700</amount>
+      </record>
+      <record>
+        <ref>139860</ref>
+        <supplier>COOL KIDS OUT OF SCHOOL LTD</supplier>
+        <amount currency="GBP">3950</amount>
+      </record>
+      <record>
+        <ref>117178</ref>
+        <supplier>COOLSPIRIT LTD</supplier>
+        <amount currency="GBP">817.95</amount>
+      </record>
+      <record>
+        <ref>131661</ref>
+        <supplier>CO-OPERATIVE WEBB LTD</supplier>
+        <amount currency="GBP">700</amount>
+      </record>
+      <record>
+        <ref>103443</ref>
+        <supplier>COPPER BEECHES DAY NURSERY</supplier>
+        <amount currency="GBP">7614.38</amount>
+      </record>
+      <record>
+        <ref>103444</ref>
+        <supplier>CORNHILL KINDERGARTEN LTD</supplier>
+        <amount currency="GBP">5543.52</amount>
+      </record>
+      <record>
+        <ref>4043</ref>
+        <supplier>CORONA ENERGY RETAIL 2 LTD</supplier>
+        <amount currency="GBP">44669.52</amount>
+      </record>
+      <record>
+        <ref>135847</ref>
+        <supplier>COSTAR GROUP</supplier>
+        <amount currency="GBP">776.5</amount>
+      </record>
+      <record>
+        <ref>101335</ref>
+        <supplier>COTEBROOK LTD</supplier>
+        <amount currency="GBP">12714.74</amount>
+      </record>
+      <record>
+        <ref>100056</ref>
+        <supplier>COUNSELLING &amp; FAMILY CENTRE</supplier>
+        <amount currency="GBP">32595.88</amount>
+      </record>
+      <record>
+        <ref>125699</ref>
+        <supplier>COUTTS INFORMATION SERVICES</supplier>
+        <amount currency="GBP">2008.58</amount>
+      </record>
+      <record>
+        <ref>141846</ref>
+        <supplier>CRAEGMOOR FACILITIES COMPANY LTD</supplier>
+        <amount currency="GBP">158798.51</amount>
+      </record>
+      <record>
+        <ref>137331</ref>
+        <supplier>CRANBOURNE PR CONSULTANTS LTD</supplier>
+        <amount currency="GBP">10716</amount>
+      </record>
+      <record>
+        <ref>138423</ref>
+        <supplier>CRAWSHAW HALL NURSING HOME</supplier>
+        <amount currency="GBP">7280</amount>
+      </record>
+      <record>
+        <ref>134782</ref>
+        <supplier>CREAMLINE DAIRIES LTD</supplier>
+        <amount currency="GBP">23304.06</amount>
+      </record>
+      <record>
+        <ref>100160</ref>
+        <supplier>CREATIVE SUPPORT LTD</supplier>
+        <amount currency="GBP">168441.59</amount>
+      </record>
+      <record>
+        <ref>134148</ref>
+        <supplier>CREATIVE-VEIN LTD</supplier>
+        <amount currency="GBP">7672</amount>
+      </record>
+      <record>
+        <ref>143025</ref>
+        <supplier>CREATVE SPARK DESIGNS LTD</supplier>
+        <amount currency="GBP">11485</amount>
+      </record>
+      <record>
+        <ref>103393</ref>
+        <supplier>CRESTA COURT HOTEL</supplier>
+        <amount currency="GBP">527.11</amount>
+      </record>
+      <record>
+        <ref>102062</ref>
+        <supplier>CRIMINAL RECORDS BUREAU</supplier>
+        <amount currency="GBP">33233</amount>
+      </record>
+      <record>
+        <ref>100434</ref>
+        <supplier>CRIMSON UK LTD</supplier>
+        <amount currency="GBP">1695.13</amount>
+      </record>
+      <record>
+        <ref>131003</ref>
+        <supplier>CROMWELL POYTHENE LTD</supplier>
+        <amount currency="GBP">2310</amount>
+      </record>
+      <record>
+        <ref>103102</ref>
+        <supplier>CROSSFORD BRIDGE MANAGEMENT ASSOC</supplier>
+        <amount currency="GBP">11297</amount>
+      </record>
+      <record>
+        <ref>102663</ref>
+        <supplier>CROSSROADS CARING FOR CARERS SALFOR</supplier>
+        <amount currency="GBP">14332.14</amount>
+      </record>
+      <record>
+        <ref>141206</ref>
+        <supplier>CROWN ASSOCIATES INTERNATIONAL</supplier>
+        <amount currency="GBP">1671.9</amount>
+      </record>
+      <record>
+        <ref>122951</ref>
+        <supplier>CUBE CREATIVE LTD</supplier>
+        <amount currency="GBP">4225</amount>
+      </record>
+      <record>
+        <ref>138470</ref>
+        <supplier>CUERDEN DEVELOPMENTS LTD</supplier>
+        <amount currency="GBP">4819.63</amount>
+      </record>
+      <record>
+        <ref>127048</ref>
+        <supplier>CURTIS CARRIAGE CO</supplier>
+        <amount currency="GBP">14041.8</amount>
+      </record>
+      <record>
+        <ref>130845</ref>
+        <supplier>CUSTOMER RESEARCH TECHNOLOGY LTD</supplier>
+        <amount currency="GBP">15065</amount>
+      </record>
+      <record>
+        <ref>141664</ref>
+        <supplier>CYGNET HEALTH CARE LTD</supplier>
+        <amount currency="GBP">11051.95</amount>
+      </record>
+      <record>
+        <ref>131799</ref>
+        <supplier>D CHEETWOOD T/A DMC TRAVEL</supplier>
+        <amount currency="GBP">14515.8</amount>
+      </record>
+      <record>
+        <ref>132214</ref>
+        <supplier>DALESVIEW PARTNERSHIP</supplier>
+        <amount currency="GBP">18073.38</amount>
+      </record>
+      <record>
+        <ref>127170</ref>
+        <supplier>DANE ROAD NEWSAGENCY</supplier>
+        <amount currency="GBP">1259.85</amount>
+      </record>
+      <record>
+        <ref>102334</ref>
+        <supplier>DARNA HOUSE LTD</supplier>
+        <amount currency="GBP">55548.9</amount>
+      </record>
+      <record>
+        <ref>101848</ref>
+        <supplier>DAVID LEWIS CENTRE</supplier>
+        <amount currency="GBP">189274.1</amount>
+      </record>
+      <record>
+        <ref>128473</ref>
+        <supplier>DAWSONRENTALS SWEEPERS</supplier>
+        <amount currency="GBP">32409.97</amount>
+      </record>
+      <record>
+        <ref>103650</ref>
+        <supplier>DCS JONCARE LTD</supplier>
+        <amount currency="GBP">1316</amount>
+      </record>
+      <record>
+        <ref>3238</ref>
+        <supplier>DCT CIVIL ENGINEERING LTD</supplier>
+        <amount currency="GBP">12911.92</amount>
+      </record>
+      <record>
+        <ref>140052</ref>
+        <supplier>DE LAGE LANDEN T/A OCE FIANNCE</supplier>
+        <amount currency="GBP">2475</amount>
+      </record>
+      <record>
+        <ref>140001</ref>
+        <supplier>DECKERS RESTAURANTS LTD</supplier>
+        <amount currency="GBP">39444.02</amount>
+      </record>
+      <record>
+        <ref>100282</ref>
+        <supplier>DEEPDENE CARE LTD</supplier>
+        <amount currency="GBP">67486.88</amount>
+      </record>
+      <record>
+        <ref>105728</ref>
+        <supplier>DELL COMPUTER CORPORATION LTD</supplier>
+        <amount currency="GBP">3961.75</amount>
+      </record>
+      <record>
+        <ref>126406</ref>
+        <supplier>DELTANET INTERNATIONAL LTD</supplier>
+        <amount currency="GBP">3300</amount>
+      </record>
+      <record>
+        <ref>130438</ref>
+        <supplier>DENISE THORNTON</supplier>
+        <amount currency="GBP">1750</amount>
+      </record>
+      <record>
+        <ref>133971</ref>
+        <supplier>DENT HOUSE</supplier>
+        <amount currency="GBP">31637.84</amount>
+      </record>
+      <record>
+        <ref>101621</ref>
+        <supplier>DERWEN COLLEGE</supplier>
+        <amount currency="GBP">3701.69</amount>
+      </record>
+      <record>
+        <ref>101700</ref>
+        <supplier>DFC</supplier>
+        <amount currency="GBP">717.12</amount>
+      </record>
+      <record>
+        <ref>138681</ref>
+        <supplier>DIANE HEWITT</supplier>
+        <amount currency="GBP">960</amount>
+      </record>
+      <record>
+        <ref>138419</ref>
+        <supplier>DIRECT TRAVEL MANCHESTER LTD</supplier>
+        <amount currency="GBP">69952.49</amount>
+      </record>
+      <record>
+        <ref>3027</ref>
+        <supplier>DLP SERVICES NORTHERN LTD</supplier>
+        <amount currency="GBP">53909.91</amount>
+      </record>
+      <record>
+        <ref>143235</ref>
+        <supplier>DNA CAR AUDIO</supplier>
+        <amount currency="GBP">2200</amount>
+      </record>
+      <record>
+        <ref>135907</ref>
+        <supplier>DO THE RIGHT THING</supplier>
+        <amount currency="GBP">3753.65</amount>
+      </record>
+      <record>
+        <ref>102915</ref>
+        <supplier>DOM POLSKI RESIDENTIAL CARE HOME</supplier>
+        <amount currency="GBP">2454.82</amount>
+      </record>
+      <record>
+        <ref>139757</ref>
+        <supplier>DOMAIN CARE LTD</supplier>
+        <amount currency="GBP">4785.42</amount>
+      </record>
+      <record>
+        <ref>101649</ref>
+        <supplier>DOTTED EYES LTD</supplier>
+        <amount currency="GBP">5647</amount>
+      </record>
+      <record>
+        <ref>100555</ref>
+        <supplier>DOVER HOUSE REST HOME</supplier>
+        <amount currency="GBP">31855.99</amount>
+      </record>
+      <record>
+        <ref>131791</ref>
+        <supplier>DOWNSHAW LODGE NURSING HOME</supplier>
+        <amount currency="GBP">18211.95</amount>
+      </record>
+      <record>
+        <ref>141983</ref>
+        <supplier>DR R J POSTLETHWAITE</supplier>
+        <amount currency="GBP">3750</amount>
+      </record>
+      <record>
+        <ref>141949</ref>
+        <supplier>DRAKELOW HOUSE REST HOME</supplier>
+        <amount currency="GBP">3023.85</amount>
+      </record>
+      <record>
+        <ref>101064</ref>
+        <supplier>DRINKLE &amp; MANN LTD</supplier>
+        <amount currency="GBP">2472.12</amount>
+      </record>
+      <record>
+        <ref>102831</ref>
+        <supplier>DRIVERS JONAS</supplier>
+        <amount currency="GBP">9432.25</amount>
+      </record>
+      <record>
+        <ref>136164</ref>
+        <supplier>DRS.DIRECT LIMITED</supplier>
+        <amount currency="GBP">4487.49</amount>
+      </record>
+      <record>
+        <ref>103195</ref>
+        <supplier>DSG RETAIL LTD T/A EQUANET</supplier>
+        <amount currency="GBP">3934.9</amount>
+      </record>
+      <record>
+        <ref>101986</ref>
+        <supplier>DUNHAM MASSEY PARISH COUNCIL</supplier>
+        <amount currency="GBP">4845</amount>
+      </record>
+      <record>
+        <ref>122290</ref>
+        <supplier>DV NETWORKS LTD</supplier>
+        <amount currency="GBP">3687.51</amount>
+      </record>
+      <record>
+        <ref>136316</ref>
+        <supplier>DYLAN CHUBB LTD</supplier>
+        <amount currency="GBP">650</amount>
+      </record>
+      <record>
+        <ref>136863</ref>
+        <supplier>E P MORRIS AND COMPANY LTD</supplier>
+        <amount currency="GBP">1340</amount>
+      </record>
+      <record>
+        <ref>103223</ref>
+        <supplier>E.ON ENERGY</supplier>
+        <amount currency="GBP">109561.71</amount>
+      </record>
+      <record>
+        <ref>3023</ref>
+        <supplier>E.R.WILLIAMS (PAINTING CONTRACTORS)</supplier>
+        <amount currency="GBP">2210</amount>
+      </record>
+      <record>
+        <ref>130111</ref>
+        <supplier>EAM HOUSE RESPITE HOME</supplier>
+        <amount currency="GBP">18755.3</amount>
+      </record>
+      <record>
+        <ref>141930</ref>
+        <supplier>EAM LODGE LTD</supplier>
+        <amount currency="GBP">1102.5</amount>
+      </record>
+      <record>
+        <ref>131787</ref>
+        <supplier>EARLY YEARS RESOURCES</supplier>
+        <amount currency="GBP">1403.1</amount>
+      </record>
+      <record>
+        <ref>140985</ref>
+        <supplier>EAST CLEVELAND MS HOME LTD</supplier>
+        <amount currency="GBP">8086.14</amount>
+      </record>
+      <record>
+        <ref>113472</ref>
+        <supplier>EASY- GATE LTD</supplier>
+        <amount currency="GBP">1260.01</amount>
+      </record>
+      <record>
+        <ref>128371</ref>
+        <supplier>ECM</supplier>
+        <amount currency="GBP">4858.62</amount>
+      </record>
+      <record>
+        <ref>102195</ref>
+        <supplier>EDMUND SHIPWAY LLP</supplier>
+        <amount currency="GBP">14337</amount>
+      </record>
+      <record>
+        <ref>140360</ref>
+        <supplier>EDUCARE TRUST</supplier>
+        <amount currency="GBP">1027</amount>
+      </record>
+      <record>
+        <ref>122326</ref>
+        <supplier>EDUCATION BUSINESS SOLUTIONS LTD</supplier>
+        <amount currency="GBP">16836</amount>
+      </record>
+      <record>
+        <ref>103205</ref>
+        <supplier>EDUCATIONAL RECORDING AGENCY (ERA)</supplier>
+        <amount currency="GBP">10831.08</amount>
+      </record>
+      <record>
+        <ref>142240</ref>
+        <supplier>EDWARDS ENGINEERING LTD</supplier>
+        <amount currency="GBP">828</amount>
+      </record>
+      <record>
+        <ref>3980</ref>
+        <supplier>EFT SYSTEMS LTD</supplier>
+        <amount currency="GBP">5260</amount>
+      </record>
+      <record>
+        <ref>101365</ref>
+        <supplier>ELIZABETH FITZROY SUPPORT</supplier>
+        <amount currency="GBP">67021.51</amount>
+      </record>
+      <record>
+        <ref>138198</ref>
+        <supplier>ELIZABETH JARMAN TRAINING LTD</supplier>
+        <amount currency="GBP">2991.6</amount>
+      </record>
+      <record>
+        <ref>3883</ref>
+        <supplier>ELLIOTT LOOHIRE LTD</supplier>
+        <amount currency="GBP">2000</amount>
+      </record>
+      <record>
+        <ref>101090</ref>
+        <supplier>ELMSCOT DAY NURSERY LTD</supplier>
+        <amount currency="GBP">6434.75</amount>
+      </record>
+      <record>
+        <ref>138727</ref>
+        <supplier>EMILY LYONS</supplier>
+        <amount currency="GBP">1700</amount>
+      </record>
+      <record>
+        <ref>3209</ref>
+        <supplier>ENTERPRISE LIGHTING SERVICES LTD</supplier>
+        <amount currency="GBP">39524.23</amount>
+      </record>
+      <record>
+        <ref>102481</ref>
+        <supplier>ENVIRONMENT AGENCY</supplier>
+        <amount currency="GBP">63456</amount>
+      </record>
+      <record>
+        <ref>137549</ref>
+        <supplier>ENVIRONMENTAL ESSENTIALS LTD</supplier>
+        <amount currency="GBP">725</amount>
+      </record>
+      <record>
+        <ref>138586</ref>
+        <supplier>EPIGRAM COMMUNICATIONS AND DESIGN L</supplier>
+        <amount currency="GBP">5296.1</amount>
+      </record>
+      <record>
+        <ref>140991</ref>
+        <supplier>EQUAL PAY ASSIST LTD</supplier>
+        <amount currency="GBP">19700.28</amount>
+      </record>
+      <record>
+        <ref>104992</ref>
+        <supplier>EQUILIBRIUM HEALTHCARE LIMITED</supplier>
+        <amount currency="GBP">13064.99</amount>
+      </record>
+      <record>
+        <ref>132492</ref>
+        <supplier>ESTEEM CARE LTD</supplier>
+        <amount currency="GBP">4014.76</amount>
+      </record>
+      <record>
+        <ref>100720</ref>
+        <supplier>EVANS TAXIS &amp; MINI-BUSES</supplier>
+        <amount currency="GBP">21114</amount>
+      </record>
+      <record>
+        <ref>131973</ref>
+        <supplier>EVERSHEDS LLP</supplier>
+        <amount currency="GBP">17388.41</amount>
+      </record>
+      <record>
+        <ref>101557</ref>
+        <supplier>F G MARSHALL LTD</supplier>
+        <amount currency="GBP">1242.21</amount>
+      </record>
+      <record>
+        <ref>110070</ref>
+        <supplier>F R SHARROCK LTD</supplier>
+        <amount currency="GBP">114862.21</amount>
+      </record>
+      <record>
+        <ref>137866</ref>
+        <supplier>FAIRFIELD RESIDENTIAL LTD</supplier>
+        <amount currency="GBP">158661.4</amount>
+      </record>
+      <record>
+        <ref>3373</ref>
+        <supplier>FAIRWAY LANDSCAPES LIMITED</supplier>
+        <amount currency="GBP">45651.49</amount>
+      </record>
+      <record>
+        <ref>132652</ref>
+        <supplier>FARNWORTH CARE HOME</supplier>
+        <amount currency="GBP">6023.02</amount>
+      </record>
+      <record>
+        <ref>100806</ref>
+        <supplier>FAVERSHAM HOUSE NURSING HOME</supplier>
+        <amount currency="GBP">32110.25</amount>
+      </record>
+      <record>
+        <ref>4185</ref>
+        <supplier>FENCELINES LTD</supplier>
+        <amount currency="GBP">637</amount>
+      </record>
+      <record>
+        <ref>107996</ref>
+        <supplier>FENCING SUPPLIES LTD</supplier>
+        <amount currency="GBP">1040.33</amount>
+      </record>
+      <record>
+        <ref>103631</ref>
+        <supplier>FERRET INFORMATION SYSTEMS LTD</supplier>
+        <amount currency="GBP">855</amount>
+      </record>
+      <record>
+        <ref>101134</ref>
+        <supplier>FERROL LODGE</supplier>
+        <amount currency="GBP">42542.79</amount>
+      </record>
+      <record>
+        <ref>101080</ref>
+        <supplier>FIBROUS LIMITED</supplier>
+        <amount currency="GBP">672</amount>
+      </record>
+      <record>
+        <ref>113000</ref>
+        <supplier>FISCHER EDUCATION PROJECT LTD</supplier>
+        <amount currency="GBP">637.75</amount>
+      </record>
+      <record>
+        <ref>104846</ref>
+        <supplier>FLEDGLINGS LIMITED</supplier>
+        <amount currency="GBP">12640.75</amount>
+      </record>
+      <record>
+        <ref>102296</ref>
+        <supplier>FLIXTON MANOR</supplier>
+        <amount currency="GBP">81061.42</amount>
+      </record>
+      <record>
+        <ref>128451</ref>
+        <supplier>FOCUS ON SOLUTIONS LTD</supplier>
+        <amount currency="GBP">1201.24</amount>
+      </record>
+      <record>
+        <ref>143260</ref>
+        <supplier>FOCUS12</supplier>
+        <amount currency="GBP">4400</amount>
+      </record>
+      <record>
+        <ref>101715</ref>
+        <supplier>FOSTER CARE ASSOCIATES LTD</supplier>
+        <amount currency="GBP">31451.68</amount>
+      </record>
+      <record>
+        <ref>131658</ref>
+        <supplier>FOSTER REFRIDGERATOR</supplier>
+        <amount currency="GBP">1206.01</amount>
+      </record>
+      <record>
+        <ref>114251</ref>
+        <supplier>FOSTERING NETWORK</supplier>
+        <amount currency="GBP">6484.44</amount>
+      </record>
+      <record>
+        <ref>131302</ref>
+        <supplier>FOSTERING PARTNERSHIP</supplier>
+        <amount currency="GBP">88068.5</amount>
+      </record>
+      <record>
+        <ref>101644</ref>
+        <supplier>FOSTERING SOLUTIONS LTD</supplier>
+        <amount currency="GBP">70967.11</amount>
+      </record>
+      <record>
+        <ref>141924</ref>
+        <supplier>FOUNDATION CARE (NORTWICH) LTD</supplier>
+        <amount currency="GBP">5472.43</amount>
+      </record>
+      <record>
+        <ref>114747</ref>
+        <supplier>FOUNTAINS NURSING HOME</supplier>
+        <amount currency="GBP">42407.52</amount>
+      </record>
+      <record>
+        <ref>115032</ref>
+        <supplier>FOUR SEASONS HEALTH CARE</supplier>
+        <amount currency="GBP">7593.68</amount>
+      </record>
+      <record>
+        <ref>142365</ref>
+        <supplier>FOX HALLMARK HEALTHCARE (WARRINGTON</supplier>
+        <amount currency="GBP">3463.71</amount>
+      </record>
+      <record>
+        <ref>138375</ref>
+        <supplier>FRANK DARBYSHIRE</supplier>
+        <amount currency="GBP">2280</amount>
+      </record>
+      <record>
+        <ref>101101</ref>
+        <supplier>FRANK HODGKINSON ASSOCIATES</supplier>
+        <amount currency="GBP">1400</amount>
+      </record>
+      <record>
+        <ref>3090</ref>
+        <supplier>FRANKLAND TREE SERVICES LIMITED</supplier>
+        <amount currency="GBP">13775</amount>
+      </record>
+      <record>
+        <ref>107475</ref>
+        <supplier>FREEDOM COMMUNICATIONS (UK) LTD</supplier>
+        <amount currency="GBP">34933.71</amount>
+      </record>
+      <record>
+        <ref>3590</ref>
+        <supplier>FREELIFT LTD</supplier>
+        <amount currency="GBP">11007</amount>
+      </record>
+      <record>
+        <ref>100638</ref>
+        <supplier>FRYERS NURSERIES LTD</supplier>
+        <amount currency="GBP">504.4</amount>
+      </record>
+      <record>
+        <ref>143447</ref>
+        <supplier>FUTURE PROJECTIONS LTD</supplier>
+        <amount currency="GBP">934</amount>
+      </record>
+      <record>
+        <ref>142684</ref>
+        <supplier>G &amp; M ASSOCIATES LTD</supplier>
+        <amount currency="GBP">11400</amount>
+      </record>
+      <record>
+        <ref>101504</ref>
+        <supplier>G &amp; S SMIRTHWAITE LTD</supplier>
+        <amount currency="GBP">2907</amount>
+      </record>
+      <record>
+        <ref>135277</ref>
+        <supplier>G L BOWERMAN</supplier>
+        <amount currency="GBP">1365</amount>
+      </record>
+      <record>
+        <ref>3126</ref>
+        <supplier>G SPRATT LANDSCAPING LTD</supplier>
+        <amount currency="GBP">6949.9</amount>
+      </record>
+      <record>
+        <ref>138222</ref>
+        <supplier>GATENBYSANDERSON LIMITED</supplier>
+        <amount currency="GBP">31746.8</amount>
+      </record>
+      <record>
+        <ref>117553</ref>
+        <supplier>GBM DIGITAL TECHNOLOGIES LTD</supplier>
+        <amount currency="GBP">1379</amount>
+      </record>
+      <record>
+        <ref>3165</ref>
+        <supplier>GDI ELECTRICAL CO LTD</supplier>
+        <amount currency="GBP">830</amount>
+      </record>
+      <record>
+        <ref>102457</ref>
+        <supplier>GENERAL TEACHING COUNCIL</supplier>
+        <amount currency="GBP">24096.5</amount>
+      </record>
+      <record>
+        <ref>130956</ref>
+        <supplier>GENESIS SALE MOOR CIC</supplier>
+        <amount currency="GBP">6500</amount>
+      </record>
+      <record>
+        <ref>134105</ref>
+        <supplier>GENIE NETWORKS</supplier>
+        <amount currency="GBP">18018.85</amount>
+      </record>
+      <record>
+        <ref>3760</ref>
+        <supplier>GEORGE COX &amp; SONS LTD</supplier>
+        <amount currency="GBP">29150.66</amount>
+      </record>
+      <record>
+        <ref>102464</ref>
+        <supplier>G-FORCE</supplier>
+        <amount currency="GBP">31261.5</amount>
+      </record>
+      <record>
+        <ref>132950</ref>
+        <supplier>GILL DEVLIN</supplier>
+        <amount currency="GBP">1040</amount>
+      </record>
+      <record>
+        <ref>135667</ref>
+        <supplier>GILLITOTS DAY NURSERY</supplier>
+        <amount currency="GBP">6852.2</amount>
+      </record>
+      <record>
+        <ref>134302</ref>
+        <supplier>GLOBAL DOUBLE GLAZING</supplier>
+        <amount currency="GBP">5764</amount>
+      </record>
+      <record>
+        <ref>140969</ref>
+        <supplier>GLOBAL MSC SECURITY</supplier>
+        <amount currency="GBP">4975</amount>
+      </record>
+      <record>
+        <ref>137144</ref>
+        <supplier>GM GROUP</supplier>
+        <amount currency="GBP">1397</amount>
+      </record>
+      <record>
+        <ref>102973</ref>
+        <supplier>GMB</supplier>
+        <amount currency="GBP">2981.59</amount>
+      </record>
+      <record>
+        <ref>141125</ref>
+        <supplier>GMMAZ LTD</supplier>
+        <amount currency="GBP">1300</amount>
+      </record>
+      <record>
+        <ref>132776</ref>
+        <supplier>GNG SPORT LTD</supplier>
+        <amount currency="GBP">3422.01</amount>
+      </record>
+      <record>
+        <ref>100946</ref>
+        <supplier>GO GOODWINS COACHES LTD</supplier>
+        <amount currency="GBP">11187</amount>
+      </record>
+      <record>
+        <ref>101662</ref>
+        <supplier>GODDARD &amp; STAINES LTD</supplier>
+        <amount currency="GBP">4685.11</amount>
+      </record>
+      <record>
+        <ref>102097</ref>
+        <supplier>GOLDSBOROUGH HOMECRE/NURSING</supplier>
+        <amount currency="GBP">14283.25</amount>
+      </record>
+      <record>
+        <ref>101934</ref>
+        <supplier>GOOD BUDDIES</supplier>
+        <amount currency="GBP">10856</amount>
+      </record>
+      <record>
+        <ref>101296</ref>
+        <supplier>GOTH HIBBERT</supplier>
+        <amount currency="GBP">10504.49</amount>
+      </record>
+      <record>
+        <ref>110689</ref>
+        <supplier>GRANT THORNTON UK LLP</supplier>
+        <amount currency="GBP">38000</amount>
+      </record>
+      <record>
+        <ref>137672</ref>
+        <supplier>GRASMERE CARE HOME</supplier>
+        <amount currency="GBP">5451.29</amount>
+      </record>
+      <record>
+        <ref>100060</ref>
+        <supplier>GREATER M/CR YOUTH JUSTICE TRUST</supplier>
+        <amount currency="GBP">9275</amount>
+      </record>
+      <record>
+        <ref>140877</ref>
+        <supplier>GREENTREE ENTERPRISES LTD</supplier>
+        <amount currency="GBP">4679.42</amount>
+      </record>
+      <record>
+        <ref>131471</ref>
+        <supplier>GROSVENOR CARE (CHESHIRE) LTD</supplier>
+        <amount currency="GBP">1713.6</amount>
+      </record>
+      <record>
+        <ref>3213</ref>
+        <supplier>GROUNDWORK LANDSCAPES LTD</supplier>
+        <amount currency="GBP">15631.15</amount>
+      </record>
+      <record>
+        <ref>131624</ref>
+        <supplier>GTN PLUMBING LTD</supplier>
+        <amount currency="GBP">4320</amount>
+      </record>
+      <record>
+        <ref>142872</ref>
+        <supplier>GUARDIAN CARE SERVICES LTD</supplier>
+        <amount currency="GBP">1029.6</amount>
+      </record>
+      <record>
+        <ref>143115</ref>
+        <supplier>GV MULTI-MEDIA LTD</supplier>
+        <amount currency="GBP">890.01</amount>
+      </record>
+      <record>
+        <ref>102688</ref>
+        <supplier>H JENKINSON &amp; COMPANY LTD</supplier>
+        <amount currency="GBP">4243.89</amount>
+      </record>
+      <record>
+        <ref>122174</ref>
+        <supplier>HALLIDAY MEECHAM ARCHITECTS LTD</supplier>
+        <amount currency="GBP">27803.06</amount>
+      </record>
+      <record>
+        <ref>133552</ref>
+        <supplier>HAMMOND GOWER PUBLICATIONS LTD</supplier>
+        <amount currency="GBP">786.4</amount>
+      </record>
+      <record>
+        <ref>137028</ref>
+        <supplier>HANOVER PARTNERSHIP</supplier>
+        <amount currency="GBP">5583.92</amount>
+      </record>
+      <record>
+        <ref>102532</ref>
+        <supplier>HARBEX LTD</supplier>
+        <amount currency="GBP">52979.37</amount>
+      </record>
+      <record>
+        <ref>130677</ref>
+        <supplier>HAWKESWORTH APPLIANCE TESTING LTD</supplier>
+        <amount currency="GBP">8668.7</amount>
+      </record>
+      <record>
+        <ref>100601</ref>
+        <supplier>HAYLANDS EVENTIDE HOME</supplier>
+        <amount currency="GBP">91554.93</amount>
+      </record>
+      <record>
+        <ref>110751</ref>
+        <supplier>HAYMARKET PUBLICATION SERVICE LTD</supplier>
+        <amount currency="GBP">755</amount>
+      </record>
+      <record>
+        <ref>101281</ref>
+        <supplier>HAYTONS EXECUTIVE TRAVEL LIMITED</supplier>
+        <amount currency="GBP">1075</amount>
+      </record>
+      <record>
+        <ref>134464</ref>
+        <supplier>HEALTH &amp; SAFETY SOLUTIONS (NW) LTD</supplier>
+        <amount currency="GBP">2080</amount>
+      </record>
+      <record>
+        <ref>101993</ref>
+        <supplier>HEALTHSURE GROUP LIMITED</supplier>
+        <amount currency="GBP">30738.83</amount>
+      </record>
+      <record>
+        <ref>105983</ref>
+        <supplier>HEARING PRODUCTS INTERNATIONAL LTD</supplier>
+        <amount currency="GBP">1808.5</amount>
+      </record>
+      <record>
+        <ref>135058</ref>
+        <supplier>HEATHER JAMES</supplier>
+        <amount currency="GBP">2860</amount>
+      </record>
+      <record>
+        <ref>102557</ref>
+        <supplier>HEATHSIDE RETIRMENT HOME</supplier>
+        <amount currency="GBP">51621.08</amount>
+      </record>
+      <record>
+        <ref>101304</ref>
+        <supplier>HEATON LODGE</supplier>
+        <amount currency="GBP">4258.01</amount>
+      </record>
+      <record>
+        <ref>141067</ref>
+        <supplier>HEINEKEN UK LTD</supplier>
+        <amount currency="GBP">725.72</amount>
+      </record>
+      <record>
+        <ref>137376</ref>
+        <supplier>HELPING HANDS (MIDSHIRES CARE LTD)</supplier>
+        <amount currency="GBP">3052</amount>
+      </record>
+      <record>
+        <ref>102098</ref>
+        <supplier>HELPING HANDS HOMECARE AGENCY</supplier>
+        <amount currency="GBP">20907.94</amount>
+      </record>
+      <record>
+        <ref>137687</ref>
+        <supplier>HENCEWELL</supplier>
+        <amount currency="GBP">1526.38</amount>
+      </record>
+      <record>
+        <ref>136788</ref>
+        <supplier>HIGHFIELD ROAD</supplier>
+        <amount currency="GBP">30408.29</amount>
+      </record>
+      <record>
+        <ref>134099</ref>
+        <supplier>HIGHVIEW</supplier>
+        <amount currency="GBP">18017.41</amount>
+      </record>
+      <record>
+        <ref>124520</ref>
+        <supplier>HI-Q TYRESERVICES</supplier>
+        <amount currency="GBP">2173.4</amount>
+      </record>
+      <record>
+        <ref>100820</ref>
+        <supplier>HIREQUIREMENTS LIMITED</supplier>
+        <amount currency="GBP">2531.85</amount>
+      </record>
+      <record>
+        <ref>103576</ref>
+        <supplier>HIRST SIGNS LTD</supplier>
+        <amount currency="GBP">1508.02</amount>
+      </record>
+      <record>
+        <ref>137156</ref>
+        <supplier>HIRSTWOOD TRAINING LTD</supplier>
+        <amount currency="GBP">945.4</amount>
+      </record>
+      <record>
+        <ref>133219</ref>
+        <supplier>HI-WAY HI FI LIMITED</supplier>
+        <amount currency="GBP">732.12</amount>
+      </record>
+      <record>
+        <ref>pcard</ref>
+        <supplier>HMCOURTS-SERVICE.G</supplier>
+        <amount currency="GBP">11511</amount>
+      </record>
+      <record>
+        <ref>123234</ref>
+        <supplier>HOMEFAIR BLINDS NW LTD</supplier>
+        <amount currency="GBP">3690</amount>
+      </record>
+      <record>
+        <ref>140439</ref>
+        <supplier>HORTICON LTD</supplier>
+        <amount currency="GBP">740</amount>
+      </record>
+      <record>
+        <ref>3162</ref>
+        <supplier>HOWARD MASSEY N/WEST LTD</supplier>
+        <amount currency="GBP">22427</amount>
+      </record>
+      <record>
+        <ref>124034</ref>
+        <supplier>HULL TRUCK THEATRE COMPANY LTD</supplier>
+        <amount currency="GBP">1567.12</amount>
+      </record>
+      <record>
+        <ref>129042</ref>
+        <supplier>HULME HALL EDUCATIONAL TRUST</supplier>
+        <amount currency="GBP">800</amount>
+      </record>
+      <record>
+        <ref>127528</ref>
+        <supplier>HUMAN SUPPORT T/A HOMECARE SUPPORT</supplier>
+        <amount currency="GBP">420515.69</amount>
+      </record>
+      <record>
+        <ref>104825</ref>
+        <supplier>HUMPHREY PARK &amp; DIST BOWLING CLUB</supplier>
+        <amount currency="GBP">1742.59</amount>
+      </record>
+      <record>
+        <ref>101883</ref>
+        <supplier>HUMPHREY PARK COMMUNITY ASSOCIATION</supplier>
+        <amount currency="GBP">640</amount>
+      </record>
+      <record>
+        <ref>3139</ref>
+        <supplier>HVB FLOORING SERVICES LTD</supplier>
+        <amount currency="GBP">5636</amount>
+      </record>
+      <record>
+        <ref>138588</ref>
+        <supplier>HY-PRO INTERNATIONAL LTD</supplier>
+        <amount currency="GBP">1296</amount>
+      </record>
+      <record>
+        <ref>136790</ref>
+        <supplier>I CARE (GB) LTD</supplier>
+        <amount currency="GBP">16938.3</amount>
+      </record>
+      <record>
+        <ref>134292</ref>
+        <supplier>IAN FARNHILL T/A PERSONAL TRAVEL</supplier>
+        <amount currency="GBP">2790</amount>
+      </record>
+      <record>
+        <ref>141273</ref>
+        <supplier>IAN'S TAXIS</supplier>
+        <amount currency="GBP">3040</amount>
+      </record>
+      <record>
+        <ref>103236</ref>
+        <supplier>IAS (SERVICES) LTD</supplier>
+        <amount currency="GBP">147626.19</amount>
+      </record>
+      <record>
+        <ref>142681</ref>
+        <supplier>ICA : UK</supplier>
+        <amount currency="GBP">20000</amount>
+      </record>
+      <record>
+        <ref>101450</ref>
+        <supplier>IMAGE DATA GROUP LTD T/A PUBLIC-ID</supplier>
+        <amount currency="GBP">1738.06</amount>
+      </record>
+      <record>
+        <ref>105677</ref>
+        <supplier>IMAGE EVERYTHING LTD T/A THE IMAGE</supplier>
+        <amount currency="GBP">10200.01</amount>
+      </record>
+      <record>
+        <ref>138363</ref>
+        <supplier>IMAGE MUSICAL THEATRE</supplier>
+        <amount currency="GBP">750</amount>
+      </record>
+      <record>
+        <ref>143252</ref>
+        <supplier>IMAP CENTRE LTD</supplier>
+        <amount currency="GBP">50387.74</amount>
+      </record>
+      <record>
+        <ref>105694</ref>
+        <supplier>INCENTIVE PLUS LTD</supplier>
+        <amount currency="GBP">6258.75</amount>
+      </record>
+      <record>
+        <ref>100396</ref>
+        <supplier>INCLUSIVE TECHNOLOGY LIMITED</supplier>
+        <amount currency="GBP">2574</amount>
+      </record>
+      <record>
+        <ref>137098</ref>
+        <supplier>INDEPENDENT BUSINESS SERVICES LTD</supplier>
+        <amount currency="GBP">1750</amount>
+      </record>
+      <record>
+        <ref>116086</ref>
+        <supplier>INDEPENDENT CHILDCARE GRP SCH LTD</supplier>
+        <amount currency="GBP">25908.64</amount>
+      </record>
+      <record>
+        <ref>103559</ref>
+        <supplier>INDEPENDENT OPTIONS (STOCKPORT) LTD</supplier>
+        <amount currency="GBP">2343.76</amount>
+      </record>
+      <record>
+        <ref>100809</ref>
+        <supplier>INDIAN SENIOR CITIZENS CENTRE</supplier>
+        <amount currency="GBP">8083.48</amount>
+      </record>
+      <record>
+        <ref>115823</ref>
+        <supplier>INDUSTRADE FORESTRY EQUIPMENT</supplier>
+        <amount currency="GBP">2040</amount>
+      </record>
+      <record>
+        <ref>107773</ref>
+        <supplier>ING LEASE UK LTD</supplier>
+        <amount currency="GBP">2766.79</amount>
+      </record>
+      <record>
+        <ref>132521</ref>
+        <supplier>INSIGHT DIRECT (UK) LTD</supplier>
+        <amount currency="GBP">89986.73</amount>
+      </record>
+      <record>
+        <ref>132848</ref>
+        <supplier>INSPIRIT CARE LTD</supplier>
+        <amount currency="GBP">40490.31</amount>
+      </record>
+      <record>
+        <ref>102896</ref>
+        <supplier>INST OF REVENUES RATING &amp; VALN</supplier>
+        <amount currency="GBP">880.03</amount>
+      </record>
+      <record>
+        <ref>135886</ref>
+        <supplier>INTELLIDENT LTD</supplier>
+        <amount currency="GBP">10918.45</amount>
+      </record>
+      <record>
+        <ref>138403</ref>
+        <supplier>INTUITIVE RECOVERY LTD</supplier>
+        <amount currency="GBP">24300</amount>
+      </record>
+      <record>
+        <ref>143179</ref>
+        <supplier>INVALIFTS LIMITED</supplier>
+        <amount currency="GBP">9522.5</amount>
+      </record>
+      <record>
+        <ref>132365</ref>
+        <supplier>IN-VOLVE</supplier>
+        <amount currency="GBP">93984</amount>
+      </record>
+      <record>
+        <ref>127406</ref>
+        <supplier>IODA LTD</supplier>
+        <amount currency="GBP">2880.8</amount>
+      </record>
+      <record>
+        <ref>4110</ref>
+        <supplier>IPL CONSTRUCTION LTD</supplier>
+        <amount currency="GBP">605.35</amount>
+      </record>
+      <record>
+        <ref>101430</ref>
+        <supplier>IPS CONVERTERS LTD</supplier>
+        <amount currency="GBP">509.47</amount>
+      </record>
+      <record>
+        <ref>100155</ref>
+        <supplier>IRWELL VALLEY HOUSING ASSOCIATION</supplier>
+        <amount currency="GBP">2103.33</amount>
+      </record>
+      <record>
+        <ref>142366</ref>
+        <supplier>ISC NETWORKS</supplier>
+        <amount currency="GBP">6350</amount>
+      </record>
+      <record>
+        <ref>102304</ref>
+        <supplier>IT COMMUNICATIONS &amp; TECHNOLOGY LTD</supplier>
+        <amount currency="GBP">8646</amount>
+      </record>
+      <record>
+        <ref>101334</ref>
+        <supplier>J AND B TRAVEL</supplier>
+        <amount currency="GBP">11860</amount>
+      </record>
+      <record>
+        <ref>3031</ref>
+        <supplier>J COONEY LTD</supplier>
+        <amount currency="GBP">227131.56</amount>
+      </record>
+      <record>
+        <ref>3056</ref>
+        <supplier>J F LEE (BUILDER)</supplier>
+        <amount currency="GBP">3649</amount>
+      </record>
+      <record>
+        <ref>100457</ref>
+        <supplier>J FISHWICK LTD</supplier>
+        <amount currency="GBP">1015</amount>
+      </record>
+      <record>
+        <ref>3174</ref>
+        <supplier>J FLETCHER (ENGINEERS) LTD</supplier>
+        <amount currency="GBP">49945.41</amount>
+      </record>
+      <record>
+        <ref>3011</ref>
+        <supplier>J HOPKINS (CONTRACTORS) LTD</supplier>
+        <amount currency="GBP">1389.51</amount>
+      </record>
+      <record>
+        <ref>4058</ref>
+        <supplier>J P KELSEY PLUMBING &amp; HEATING</supplier>
+        <amount currency="GBP">7391</amount>
+      </record>
+      <record>
+        <ref>3000</ref>
+        <supplier>J W GASKELL LTD</supplier>
+        <amount currency="GBP">5373.79</amount>
+      </record>
+      <record>
+        <ref>113502</ref>
+        <supplier>JACKSON HOUSE</supplier>
+        <amount currency="GBP">23002.46</amount>
+      </record>
+      <record>
+        <ref>101720</ref>
+        <supplier>JAH-JIREH</supplier>
+        <amount currency="GBP">12094.68</amount>
+      </record>
+      <record>
+        <ref>111210</ref>
+        <supplier>JANE WALKER</supplier>
+        <amount currency="GBP">646.25</amount>
+      </record>
+      <record>
+        <ref>140127</ref>
+        <supplier>JBA CONSULTING</supplier>
+        <amount currency="GBP">26225</amount>
+      </record>
+      <record>
+        <ref>100647</ref>
+        <supplier>JCM SEATING SOLUTIONS LIMITED</supplier>
+        <amount currency="GBP">2252.94</amount>
+      </record>
+      <record>
+        <ref>105984</ref>
+        <supplier>JENX LTD</supplier>
+        <amount currency="GBP">2769</amount>
+      </record>
+      <record>
+        <ref>124216</ref>
+        <supplier>JETMARINE LTD</supplier>
+        <amount currency="GBP">2020</amount>
+      </record>
+      <record>
+        <ref>106355</ref>
+        <supplier>JG SHELTON &amp; CO LTD</supplier>
+        <amount currency="GBP">9464.4</amount>
+      </record>
+      <record>
+        <ref>129624</ref>
+        <supplier>JIGSAW (NW) IFA LTD</supplier>
+        <amount currency="GBP">4496.27</amount>
+      </record>
+      <record>
+        <ref>103604</ref>
+        <supplier>JO DONNELL</supplier>
+        <amount currency="GBP">1050</amount>
+      </record>
+      <record>
+        <ref>3190</ref>
+        <supplier>JOE BROWN (BUILDING CONTRACTORS) LT</supplier>
+        <amount currency="GBP">36438.32</amount>
+      </record>
+      <record>
+        <ref>3099</ref>
+        <supplier>JOE ROOCROFT &amp; SONS LTD</supplier>
+        <amount currency="GBP">20184</amount>
+      </record>
+      <record>
+        <ref>127945</ref>
+        <supplier>JOEL CLEMENTS</supplier>
+        <amount currency="GBP">2558.84</amount>
+      </record>
+      <record>
+        <ref>100017</ref>
+        <supplier>JOHN A VINCENT</supplier>
+        <amount currency="GBP">4173</amount>
+      </record>
+      <record>
+        <ref>135933</ref>
+        <supplier>JOHN BIRKETT</supplier>
+        <amount currency="GBP">8400</amount>
+      </record>
+      <record>
+        <ref>3048</ref>
+        <supplier>JOHN OLIVER</supplier>
+        <amount currency="GBP">8150</amount>
+      </record>
+      <record>
+        <ref>3900</ref>
+        <supplier>JOHN TURNER &amp; SONS (PRESTON) LTD</supplier>
+        <amount currency="GBP">393981</amount>
+      </record>
+      <record>
+        <ref>131008</ref>
+        <supplier>JOHNSTON PUBLISHING (NORTH)</supplier>
+        <amount currency="GBP">9200</amount>
+      </record>
+      <record>
+        <ref>142049</ref>
+        <supplier>JON TIPLER T/A ASTA FILMS</supplier>
+        <amount currency="GBP">525</amount>
+      </record>
+      <record>
+        <ref>101306</ref>
+        <supplier>JORDAN PUBLISHING LIMITED</supplier>
+        <amount currency="GBP">689.99</amount>
+      </record>
+      <record>
+        <ref>100381</ref>
+        <supplier>JSC TRAINING</supplier>
+        <amount currency="GBP">600</amount>
+      </record>
+      <record>
+        <ref>3067</ref>
+        <supplier>K J LINES LIMITED</supplier>
+        <amount currency="GBP">8293.83</amount>
+      </record>
+      <record>
+        <ref>140102</ref>
+        <supplier>K J MAY T/A DIGIPROD</supplier>
+        <amount currency="GBP">1400</amount>
+      </record>
+      <record>
+        <ref>3276</ref>
+        <supplier>K J QUINN</supplier>
+        <amount currency="GBP">564.3</amount>
+      </record>
+      <record>
+        <ref>140167</ref>
+        <supplier>KASHIF ALI</supplier>
+        <amount currency="GBP">2150</amount>
+      </record>
+      <record>
+        <ref>101483</ref>
+        <supplier>KEATE HOUSE RESIDENTIAL HOME LIMITE</supplier>
+        <amount currency="GBP">5346.77</amount>
+      </record>
+      <record>
+        <ref>135014</ref>
+        <supplier>KEEP BRITAIN TIDY</supplier>
+        <amount currency="GBP">4499</amount>
+      </record>
+      <record>
+        <ref>100681</ref>
+        <supplier>KENNETH JARVIS PHOTOGRAPHY</supplier>
+        <amount currency="GBP">520</amount>
+      </record>
+      <record>
+        <ref>3651</ref>
+        <supplier>KENNY BROS (CIVIL ENG) LTD</supplier>
+        <amount currency="GBP">35711.8</amount>
+      </record>
+      <record>
+        <ref>101752</ref>
+        <supplier>KERNOCK PARK PLANTS</supplier>
+        <amount currency="GBP">3970</amount>
+      </record>
+      <record>
+        <ref>140661</ref>
+        <supplier>KEVIN CRAWSHAW</supplier>
+        <amount currency="GBP">540</amount>
+      </record>
+      <record>
+        <ref>3206</ref>
+        <supplier>KEY BUILDERS</supplier>
+        <amount currency="GBP">4875</amount>
+      </record>
+      <record>
+        <ref>125714</ref>
+        <supplier>KEYS CHILDCARE LTD</supplier>
+        <amount currency="GBP">21876.07</amount>
+      </record>
+      <record>
+        <ref>113136</ref>
+        <supplier>KIDS MIX LTD AFTER SCHOOL CLUB</supplier>
+        <amount currency="GBP">2600</amount>
+      </record>
+      <record>
+        <ref>101059</ref>
+        <supplier>KILLGERM CHEMICALS LTD</supplier>
+        <amount currency="GBP">3059.67</amount>
+      </record>
+      <record>
+        <ref>101791</ref>
+        <supplier>KILPEACON HOUSE RESIDENTIAL CARE</supplier>
+        <amount currency="GBP">80611.03</amount>
+      </record>
+      <record>
+        <ref>105478</ref>
+        <supplier>KING SCIENTIFIC</supplier>
+        <amount currency="GBP">2168</amount>
+      </record>
+      <record>
+        <ref>103114</ref>
+        <supplier>KNIGHTHOOD CORPORATE ASSURANCE SERV</supplier>
+        <amount currency="GBP">2797.2</amount>
+      </record>
+      <record>
+        <ref>100311</ref>
+        <supplier>KNOLL CARE PARTNERSHIP LTD</supplier>
+        <amount currency="GBP">51291.16</amount>
+      </record>
+      <record>
+        <ref>142510</ref>
+        <supplier>KOFAX UK LTD</supplier>
+        <amount currency="GBP">1828</amount>
+      </record>
+      <record>
+        <ref>105747</ref>
+        <supplier>KOMPAN LTD</supplier>
+        <amount currency="GBP">2042.48</amount>
+      </record>
+      <record>
+        <ref>143109</ref>
+        <supplier>L WEST PAINTING &amp; DECORATING
+        CONTRA</supplier>
+        <amount currency="GBP">861.6</amount>
+      </record>
+      <record>
+        <ref>132722</ref>
+        <supplier>LAKES NURSING HOME</supplier>
+        <amount currency="GBP">5306.77</amount>
+      </record>
+      <record>
+        <ref>136372</ref>
+        <supplier>LAMBS SUPPORT SERVICES LIMITED</supplier>
+        <amount currency="GBP">29035.76</amount>
+      </record>
+      <record>
+        <ref>101503</ref>
+        <supplier>LANCASHIRE COUNTY CRICKET CLUB</supplier>
+        <amount currency="GBP">13834.74</amount>
+      </record>
+      <record>
+        <ref>3222</ref>
+        <supplier>LANES LANDSCAPES LIMTED</supplier>
+        <amount currency="GBP">751.05</amount>
+      </record>
+      <record>
+        <ref>140660</ref>
+        <supplier>LANGDON COMMUNITY</supplier>
+        <amount currency="GBP">22424.61</amount>
+      </record>
+      <record>
+        <ref>132066</ref>
+        <supplier>LANGFIELD NURSING &amp; RES HOME</supplier>
+        <amount currency="GBP">4714.71</amount>
+      </record>
+      <record>
+        <ref>137401</ref>
+        <supplier>LEAVING CARE COMPANY LTD</supplier>
+        <amount currency="GBP">7232.88</amount>
+      </record>
+      <record>
+        <ref>116764</ref>
+        <supplier>LEISURE FOR AUTISM</supplier>
+        <amount currency="GBP">5000</amount>
+      </record>
+      <record>
+        <ref>111686</ref>
+        <supplier>LEISURE INFORMATION SERVICES LTD</supplier>
+        <amount currency="GBP">1580</amount>
+      </record>
+      <record>
+        <ref>4015</ref>
+        <supplier>LEVERTECH LTD</supplier>
+        <amount currency="GBP">1749.75</amount>
+      </record>
+      <record>
+        <ref>100955</ref>
+        <supplier>LEX AUTOLEASE LTD</supplier>
+        <amount currency="GBP">65583.36</amount>
+      </record>
+      <record>
+        <ref>131599</ref>
+        <supplier>LH EDUCATION CONSULTANCY LTD</supplier>
+        <amount currency="GBP">8400</amount>
+      </record>
+      <record>
+        <ref>110116</ref>
+        <supplier>LIFE CHOICE LTD</supplier>
+        <amount currency="GBP">820.01</amount>
+      </record>
+      <record>
+        <ref>3738</ref>
+        <supplier>LIFT ABLE LTD</supplier>
+        <amount currency="GBP">4390</amount>
+      </record>
+      <record>
+        <ref>107780</ref>
+        <supplier>LIGHT OF HOPE CIC</supplier>
+        <amount currency="GBP">1500</amount>
+      </record>
+      <record>
+        <ref>136906</ref>
+        <supplier>LIMB TO LIMB TREE SERVICES LTD</supplier>
+        <amount currency="GBP">13840</amount>
+      </record>
+      <record>
+        <ref>101582</ref>
+        <supplier>LIMES NURSING HOME</supplier>
+        <amount currency="GBP">4564.62</amount>
+      </record>
+      <record>
+        <ref>134689</ref>
+        <supplier>LINDA WILSON</supplier>
+        <amount currency="GBP">1375</amount>
+      </record>
+      <record>
+        <ref>101390</ref>
+        <supplier>LINKS RESOURCES CENTRE</supplier>
+        <amount currency="GBP">84301.5</amount>
+      </record>
+      <record>
+        <ref>102609</ref>
+        <supplier>LISA PARTINGTON</supplier>
+        <amount currency="GBP">1743.75</amount>
+      </record>
+      <record>
+        <ref>134735</ref>
+        <supplier>LISA SHERRATT</supplier>
+        <amount currency="GBP">2080</amount>
+      </record>
+      <record>
+        <ref>132196</ref>
+        <supplier>LITTLE ACORNS GROUP LTD</supplier>
+        <amount currency="GBP">6549.12</amount>
+      </record>
+      <record>
+        <ref>126327</ref>
+        <supplier>LITTLE SISTERS OF THE POOR</supplier>
+        <amount currency="GBP">5447.93</amount>
+      </record>
+      <record>
+        <ref>100807</ref>
+        <supplier>LIVABILITY LIMITED</supplier>
+        <amount currency="GBP">8068.71</amount>
+      </record>
+      <record>
+        <ref>130012</ref>
+        <supplier>LIVING AMBITIONS</supplier>
+        <amount currency="GBP">15499.92</amount>
+      </record>
+      <record>
+        <ref>142168</ref>
+        <supplier>LLOYDS PHARMACY</supplier>
+        <amount currency="GBP">9851.49</amount>
+      </record>
+      <record>
+        <ref>141868</ref>
+        <supplier>LMCP CARE LINK</supplier>
+        <amount currency="GBP">26819.75</amount>
+      </record>
+      <record>
+        <ref>101748</ref>
+        <supplier>LOCATION CATERING ASSOCIATES LTD</supplier>
+        <amount currency="GBP">8705</amount>
+      </record>
+      <record>
+        <ref>116491</ref>
+        <supplier>LORENSBERGS LIMTED</supplier>
+        <amount currency="GBP">3007.52</amount>
+      </record>
+      <record>
+        <ref>101016</ref>
+        <supplier>LYMEHURST DAY NURSERY</supplier>
+        <amount currency="GBP">5382.78</amount>
+      </record>
+      <record>
+        <ref>119094</ref>
+        <supplier>LYN OAKES LIMITED</supplier>
+        <amount currency="GBP">746.91</amount>
+      </record>
+      <record>
+        <ref>132330</ref>
+        <supplier>LYON EQUIPTMENT</supplier>
+        <amount currency="GBP">1340</amount>
+      </record>
+      <record>
+        <ref>101951</ref>
+        <supplier>LYRECO UK LTD</supplier>
+        <amount currency="GBP">2281.25</amount>
+      </record>
+      <record>
+        <ref>112000</ref>
+        <supplier>M GREGORY</supplier>
+        <amount currency="GBP">5128.5</amount>
+      </record>
+      <record>
+        <ref>4048</ref>
+        <supplier>M. D. CONSTRUCTION (BOLTON) LTD</supplier>
+        <amount currency="GBP">30000</amount>
+      </record>
+      <record>
+        <ref>100324</ref>
+        <supplier>MACINTYRE CARE</supplier>
+        <amount currency="GBP">9426.22</amount>
+      </record>
+      <record>
+        <ref>142832</ref>
+        <supplier>MAG:NET SOLUTIONS LTD</supplier>
+        <amount currency="GBP">5700</amount>
+      </record>
+      <record>
+        <ref>111209</ref>
+        <supplier>MAGDALEN CASE</supplier>
+        <amount currency="GBP">1439.38</amount>
+      </record>
+      <record>
+        <ref>pcard</ref>
+        <supplier>MAGISTRATES COURT</supplier>
+        <amount currency="GBP">2781</amount>
+      </record>
+      <record>
+        <ref>100667</ref>
+        <supplier>MAKING SPACE</supplier>
+        <amount currency="GBP">90203.46</amount>
+      </record>
+      <record>
+        <ref>142492</ref>
+        <supplier>MALCOLM DOLMAN</supplier>
+        <amount currency="GBP">1057.14</amount>
+      </record>
+      <record>
+        <ref>3640</ref>
+        <supplier>MANCHESTER &amp; CHESHIRE CONST CO LTD</supplier>
+        <amount currency="GBP">157455.22</amount>
+      </record>
+      <record>
+        <ref>116037</ref>
+        <supplier>MANCHESTER &amp; DISTRICT HA</supplier>
+        <amount currency="GBP">5470.92</amount>
+      </record>
+      <record>
+        <ref>101687</ref>
+        <supplier>MANCHESTER CARE &amp; REPAIR LTD</supplier>
+        <amount currency="GBP">31464.18</amount>
+      </record>
+      <record>
+        <ref>103661</ref>
+        <supplier>MANCHESTER DOGS HOME</supplier>
+        <amount currency="GBP">2422.05</amount>
+      </record>
+      <record>
+        <ref>135533</ref>
+        <supplier>MANCHESTER METRONET LTD</supplier>
+        <amount currency="GBP">14500</amount>
+      </record>
+      <record>
+        <ref>106596</ref>
+        <supplier>MANCHESTER UNITED FOOTBALL CLUB LTD</supplier>
+        <amount currency="GBP">12222</amount>
+      </record>
+      <record>
+        <ref>138203</ref>
+        <supplier>MANCHESTER UNITED FOUNDATION</supplier>
+        <amount currency="GBP">15000</amount>
+      </record>
+      <record>
+        <ref>142748</ref>
+        <supplier>MANSELL CONSTRUCTION LTD</supplier>
+        <amount currency="GBP">204229.55</amount>
+      </record>
+      <record>
+        <ref>4180</ref>
+        <supplier>MANSELL CONSTRUCTION SERVICES LTD</supplier>
+        <amount currency="GBP">207699.55</amount>
+      </record>
+      <record>
+        <ref>136060</ref>
+        <supplier>MARGARET P LLOYD</supplier>
+        <amount currency="GBP">645.4</amount>
+      </record>
+      <record>
+        <ref>141853</ref>
+        <supplier>MARIA MALLAND LTD</supplier>
+        <amount currency="GBP">12144.62</amount>
+      </record>
+      <record>
+        <ref>143254</ref>
+        <supplier>MARINE SURVEYS LTD</supplier>
+        <amount currency="GBP">982.25</amount>
+      </record>
+      <record>
+        <ref>130920</ref>
+        <supplier>MARINERS PARK CARE HOME</supplier>
+        <amount currency="GBP">778.88</amount>
+      </record>
+      <record>
+        <ref>141546</ref>
+        <supplier>MARK A WILLIAMS</supplier>
+        <amount currency="GBP">11400</amount>
+      </record>
+      <record>
+        <ref>133571</ref>
+        <supplier>MARKET &amp; OPINION RESEARCH INT LTD</supplier>
+        <amount currency="GBP">20052</amount>
+      </record>
+      <record>
+        <ref>100595</ref>
+        <supplier>MARSDEN MEMORIALS</supplier>
+        <amount currency="GBP">2950.26</amount>
+      </record>
+      <record>
+        <ref>102545</ref>
+        <supplier>MARSHALLS MONO LTD</supplier>
+        <amount currency="GBP">1346.08</amount>
+      </record>
+      <record>
+        <ref>100491</ref>
+        <supplier>MARTIN O'NEILL T168</supplier>
+        <amount currency="GBP">2550</amount>
+      </record>
+      <record>
+        <ref>143386</ref>
+        <supplier>MARTINE PILLETTE</supplier>
+        <amount currency="GBP">689.1</amount>
+      </record>
+      <record>
+        <ref>108664</ref>
+        <supplier>MARY HARE SCHOOL</supplier>
+        <amount currency="GBP">1540</amount>
+      </record>
+      <record>
+        <ref>140979</ref>
+        <supplier>MARY MEDICOTT T/A STORYWORKS</supplier>
+        <amount currency="GBP">930.5</amount>
+      </record>
+      <record>
+        <ref>105850</ref>
+        <supplier>MASON WILLIAMS (MANCHESTER) LTD</supplier>
+        <amount currency="GBP">6666.68</amount>
+      </record>
+      <record>
+        <ref>133481</ref>
+        <supplier>MASTERNAUT (UK) LTD</supplier>
+        <amount currency="GBP">5640</amount>
+      </record>
+      <record>
+        <ref>133301</ref>
+        <supplier>MAT JOHNS</supplier>
+        <amount currency="GBP">1000</amount>
+      </record>
+      <record>
+        <ref>143192</ref>
+        <supplier>MAXA TECHNOLOGIES LIMITED</supplier>
+        <amount currency="GBP">507.92</amount>
+      </record>
+      <record>
+        <ref>104231</ref>
+        <supplier>MAYBANK HOUSE CARE HOME</supplier>
+        <amount currency="GBP">50083.23</amount>
+      </record>
+      <record>
+        <ref>3083</ref>
+        <supplier>MAYCAR STRUCTURAL WATERPROOFING LTD</supplier>
+        <amount currency="GBP">6750.78</amount>
+      </record>
+      <record>
+        <ref>102524</ref>
+        <supplier>MAYFIELD RESIDENTIAL HOME</supplier>
+        <amount currency="GBP">60766.63</amount>
+      </record>
+      <record>
+        <ref>3214</ref>
+        <supplier>MCCOSKER LTD</supplier>
+        <amount currency="GBP">18781</amount>
+      </record>
+      <record>
+        <ref>101084</ref>
+        <supplier>MCGRATH MEDIA THE PRINT WORKSHOP LT</supplier>
+        <amount currency="GBP">990</amount>
+      </record>
+      <record>
+        <ref>131959</ref>
+        <supplier>MCR JEWISH FEDERATION</supplier>
+        <amount currency="GBP">1333.75</amount>
+      </record>
+      <record>
+        <ref>103235</ref>
+        <supplier>MEDICO NURSING &amp; HOMECARE LTD</supplier>
+        <amount currency="GBP">27624.15</amount>
+      </record>
+      <record>
+        <ref>3034</ref>
+        <supplier>MEDMAS PROPERTIES LIMITED</supplier>
+        <amount currency="GBP">7980</amount>
+      </record>
+      <record>
+        <ref>123373</ref>
+        <supplier>MEMSAFE LTD</supplier>
+        <amount currency="GBP">17808.98</amount>
+      </record>
+      <record>
+        <ref>117878</ref>
+        <supplier>MEN MEDIA LTD</supplier>
+        <amount currency="GBP">972</amount>
+      </record>
+      <record>
+        <ref>100388</ref>
+        <supplier>MENCAP</supplier>
+        <amount currency="GBP">1928.97</amount>
+      </record>
+      <record>
+        <ref>103380</ref>
+        <supplier>MENTAL HEALTH CARE (UK) LTD</supplier>
+        <amount currency="GBP">31540.74</amount>
+      </record>
+      <record>
+        <ref>143419</ref>
+        <supplier>MENTER FACHWEN LTD</supplier>
+        <amount currency="GBP">3549.6</amount>
+      </record>
+      <record>
+        <ref>101751</ref>
+        <supplier>METHODIST HOMES FOR THE AGED</supplier>
+        <amount currency="GBP">51861.49</amount>
+      </record>
+      <record>
+        <ref>139836</ref>
+        <supplier>METRO HIRE</supplier>
+        <amount currency="GBP">1275</amount>
+      </record>
+      <record>
+        <ref>138638</ref>
+        <supplier>METRO RESIDENTIAL LTD</supplier>
+        <amount currency="GBP">1800</amount>
+      </record>
+      <record>
+        <ref>140487</ref>
+        <supplier>MICHAEL ALEXANDER</supplier>
+        <amount currency="GBP">2977.09</amount>
+      </record>
+      <record>
+        <ref>127133</ref>
+        <supplier>MICROGRAPHIC ENGINEERING SERVICES</supplier>
+        <amount currency="GBP">995</amount>
+      </record>
+      <record>
+        <ref>133311</ref>
+        <supplier>MIKE BROWN T/A ICABS</supplier>
+        <amount currency="GBP">18164.8</amount>
+      </record>
+      <record>
+        <ref>141609</ref>
+        <supplier>MIKE DUDFIELD</supplier>
+        <amount currency="GBP">3100.2</amount>
+      </record>
+      <record>
+        <ref>141612</ref>
+        <supplier>MILBURNS</supplier>
+        <amount currency="GBP">2801.55</amount>
+      </record>
+      <record>
+        <ref>112947</ref>
+        <supplier>MINIVATOR LTD</supplier>
+        <amount currency="GBP">11799</amount>
+      </record>
+      <record>
+        <ref>103842</ref>
+        <supplier>MISCO</supplier>
+        <amount currency="GBP">5763.83</amount>
+      </record>
+      <record>
+        <ref>142841</ref>
+        <supplier>MISSON VISUAL COMM LTD T/A SPLASHPR</supplier>
+        <amount currency="GBP">768.25</amount>
+      </record>
+      <record>
+        <ref>103424</ref>
+        <supplier>MJB 24HR TRAVEL</supplier>
+        <amount currency="GBP">25362.21</amount>
+      </record>
+      <record>
+        <ref>118583</ref>
+        <supplier>MORRIS FEINMANN HOME</supplier>
+        <amount currency="GBP">15047.13</amount>
+      </record>
+      <record>
+        <ref>102910</ref>
+        <supplier>MOSTON GRANGE SPECIALIST NURSING HO</supplier>
+        <amount currency="GBP">12588.42</amount>
+      </record>
+      <record>
+        <ref>133009</ref>
+        <supplier>MOUCHEL LTD</supplier>
+        <amount currency="GBP">11951.11</amount>
+      </record>
+      <record>
+        <ref>131081</ref>
+        <supplier>MOUNTWAY LIMITED</supplier>
+        <amount currency="GBP">520.5</amount>
+      </record>
+      <record>
+        <ref>140043</ref>
+        <supplier>MULTIDATA (EUROPE) LTD</supplier>
+        <amount currency="GBP">1960</amount>
+      </record>
+      <record>
+        <ref>143117</ref>
+        <supplier>MY SAFE HOME LTD</supplier>
+        <amount currency="GBP">6000</amount>
+      </record>
+      <record>
+        <ref>142713</ref>
+        <supplier>NARBARRO LLP</supplier>
+        <amount currency="GBP">8935.88</amount>
+      </record>
+      <record>
+        <ref>103479</ref>
+        <supplier>NARNIA DAY NURSERY</supplier>
+        <amount currency="GBP">9414.3</amount>
+      </record>
+      <record>
+        <ref>102883</ref>
+        <supplier>NAS SERVICES LTD</supplier>
+        <amount currency="GBP">1264.14</amount>
+      </record>
+      <record>
+        <ref>134625</ref>
+        <supplier>NASHLEY HOUSE RETIREMENT HOME</supplier>
+        <amount currency="GBP">5805.8</amount>
+      </record>
+      <record>
+        <ref>141396</ref>
+        <supplier>NATIONAL ASSOCIATION OF HEAD TEACHE</supplier>
+        <amount currency="GBP">3500</amount>
+      </record>
+      <record>
+        <ref>100640</ref>
+        <supplier>NATIONAL AUTISTIC SOCIETY</supplier>
+        <amount currency="GBP">35014.59</amount>
+      </record>
+      <record>
+        <ref>136797</ref>
+        <supplier>NATIONAL FOSTERING AGENCY LTD</supplier>
+        <amount currency="GBP">8973</amount>
+      </record>
+      <record>
+        <ref>102014</ref>
+        <supplier>NATIONAL HOLIDAYS LTD</supplier>
+        <amount currency="GBP">10570.13</amount>
+      </record>
+      <record>
+        <ref>102580</ref>
+        <supplier>NATIONAL TEACHING &amp; ADV SERVICE
+        LTD</supplier>
+        <amount currency="GBP">62115</amount>
+      </record>
+      <record>
+        <ref>142817</ref>
+        <supplier>NATIONWIDE COMMUNITY LEARNNG</supplier>
+        <amount currency="GBP">1819.69</amount>
+      </record>
+      <record>
+        <ref>134645</ref>
+        <supplier>NAZARETH HOUSE NURSING HOME</supplier>
+        <amount currency="GBP">5093.27</amount>
+      </record>
+      <record>
+        <ref>113318</ref>
+        <supplier>NCC SERVICES LTD</supplier>
+        <amount currency="GBP">1510</amount>
+      </record>
+      <record>
+        <ref>132651</ref>
+        <supplier>NCVO</supplier>
+        <amount currency="GBP">5385.92</amount>
+      </record>
+      <record>
+        <ref>101984</ref>
+        <supplier>NEOPOST CREDIFON LTD (FRANKING</supplier>
+        <amount currency="GBP">43109.5</amount>
+      </record>
+      <record>
+        <ref>140949</ref>
+        <supplier>NETCONSULT ONLINE LTD</supplier>
+        <amount currency="GBP">3992</amount>
+      </record>
+      <record>
+        <ref>130706</ref>
+        <supplier>NETWORK TECHNOLOGY SOL'NS UK LTD</supplier>
+        <amount currency="GBP">39685.49</amount>
+      </record>
+      <record>
+        <ref>136979</ref>
+        <supplier>NEW BEGINNINGS (N.E.) LTD</supplier>
+        <amount currency="GBP">2859.6</amount>
+      </record>
+      <record>
+        <ref>101689</ref>
+        <supplier>NEW ROBIN HOOD CARS LIMITED</supplier>
+        <amount currency="GBP">2520.53</amount>
+      </record>
+      <record>
+        <ref>111903</ref>
+        <supplier>NEW WAY FORWARD</supplier>
+        <amount currency="GBP">9157.09</amount>
+      </record>
+      <record>
+        <ref>4072</ref>
+        <supplier>NEWLINE ADAPTATIONS LTD</supplier>
+        <amount currency="GBP">16715</amount>
+      </record>
+      <record>
+        <ref>103934</ref>
+        <supplier>NEWSPAPER LICENSING AGENCY LTD</supplier>
+        <amount currency="GBP">1737.08</amount>
+      </record>
+      <record>
+        <ref>102642</ref>
+        <supplier>NEWSQUEST (NORTH WEST) LIMITED</supplier>
+        <amount currency="GBP">9535.4</amount>
+      </record>
+      <record>
+        <ref>143433</ref>
+        <supplier>NEXT STEP CARE MANAGEMENT LTD</supplier>
+        <amount currency="GBP">4251.76</amount>
+      </record>
+      <record>
+        <ref>130576</ref>
+        <supplier>NORD ANGILA LIFETIME DEV</supplier>
+        <amount currency="GBP">2000</amount>
+      </record>
+      <record>
+        <ref>103395</ref>
+        <supplier>NORTH EAST CHESHIRE SOCIAL WRK SERV</supplier>
+        <amount currency="GBP">2207</amount>
+      </record>
+      <record>
+        <ref>131963</ref>
+        <supplier>NORTH HOUSE</supplier>
+        <amount currency="GBP">4976.27</amount>
+      </record>
+      <record>
+        <ref>129679</ref>
+        <supplier>NORTHENDEN TRAVEL LTD</supplier>
+        <amount currency="GBP">16649.51</amount>
+      </record>
+      <record>
+        <ref>101705</ref>
+        <supplier>NORTHERN MUNICIPAL SPARES LTD</supplier>
+        <amount currency="GBP">6896.73</amount>
+      </record>
+      <record>
+        <ref>110549</ref>
+        <supplier>NORTHGATE INFO SOLUTIONS UK LTD</supplier>
+        <amount currency="GBP">14869.9</amount>
+      </record>
+      <record>
+        <ref>143038</ref>
+        <supplier>NORTHGATE INFORMATION SOLUTIONS UK</supplier>
+        <amount currency="GBP">2257.24</amount>
+      </record>
+      <record>
+        <ref>130399</ref>
+        <supplier>NORTHGATE VEHICLE HIRE (NORTH WEST)</supplier>
+        <amount currency="GBP">1176.24</amount>
+      </record>
+      <record>
+        <ref>134722</ref>
+        <supplier>NORTHGATEARINSO UK LIMITED</supplier>
+        <amount currency="GBP">1300</amount>
+      </record>
+      <record>
+        <ref>138123</ref>
+        <supplier>NORTHLAND CONTROLS LTD</supplier>
+        <amount currency="GBP">6430</amount>
+      </record>
+      <record>
+        <ref>102911</ref>
+        <supplier>NORWOOD RAVENSWOOD SERVICES LTD</supplier>
+        <amount currency="GBP">8263.07</amount>
+      </record>
+      <record>
+        <ref>138562</ref>
+        <supplier>NOUVEAU SOLUTIONS LTD</supplier>
+        <amount currency="GBP">10450</amount>
+      </record>
+      <record>
+        <ref>106556</ref>
+        <supplier>NUGENT HOUSE SCHOOL</supplier>
+        <amount currency="GBP">47678.66</amount>
+      </record>
+      <record>
+        <ref>137316</ref>
+        <supplier>OAKLAND CARE CENTRE (MOSTON)</supplier>
+        <amount currency="GBP">5145.9</amount>
+      </record>
+      <record>
+        <ref>138074</ref>
+        <supplier>OCE (UK) LTD</supplier>
+        <amount currency="GBP">185318.8</amount>
+      </record>
+      <record>
+        <ref>110747</ref>
+        <supplier>OCLC PICA LTD</supplier>
+        <amount currency="GBP">2267.61</amount>
+      </record>
+      <record>
+        <ref>103483</ref>
+        <supplier>OLD CROFTSBANK DAY NURSERY</supplier>
+        <amount currency="GBP">6293.64</amount>
+      </record>
+      <record>
+        <ref>100715</ref>
+        <supplier>OLD TRAFFORD FAMILY CENTRE</supplier>
+        <amount currency="GBP">585</amount>
+      </record>
+      <record>
+        <ref>102064</ref>
+        <supplier>OLDFIELD BANK RESIDENTIAL CARE HOME</supplier>
+        <amount currency="GBP">40858.01</amount>
+      </record>
+      <record>
+        <ref>137387</ref>
+        <supplier>OLIVE CONNECTION</supplier>
+        <amount currency="GBP">7039.97</amount>
+      </record>
+      <record>
+        <ref>140783</ref>
+        <supplier>OLIVE IMAGING LTD</supplier>
+        <amount currency="GBP">975</amount>
+      </record>
+      <record>
+        <ref>111278</ref>
+        <supplier>ONLINE LEARNING CENTRE (SALE) LTD</supplier>
+        <amount currency="GBP">13000</amount>
+      </record>
+      <record>
+        <ref>136642</ref>
+        <supplier>OPEN UNIVERSITY</supplier>
+        <amount currency="GBP">598.5</amount>
+      </record>
+      <record>
+        <ref>138619</ref>
+        <supplier>OPUS CLAIM SOLUTIONS LTD</supplier>
+        <amount currency="GBP">919.63</amount>
+      </record>
+      <record>
+        <ref>139892</ref>
+        <supplier>ORCHARD CARE HOMES LTD</supplier>
+        <amount currency="GBP">11573.23</amount>
+      </record>
+      <record>
+        <ref>132645</ref>
+        <supplier>ORCHARD CARE SOUTH WEST LTD</supplier>
+        <amount currency="GBP">4875.9</amount>
+      </record>
+      <record>
+        <ref>100909</ref>
+        <supplier>ORDNANCE SURVEY</supplier>
+        <amount currency="GBP">25958.99</amount>
+      </record>
+      <record>
+        <ref>101615</ref>
+        <supplier>ORMEROD HOME TRUST LTD</supplier>
+        <amount currency="GBP">32296.67</amount>
+      </record>
+      <record>
+        <ref>137783</ref>
+        <supplier>OUTBURST BREAKFAST, AFTERSCH, HOLID</supplier>
+        <amount currency="GBP">2930</amount>
+      </record>
+      <record>
+        <ref>105069</ref>
+        <supplier>OUTREACH</supplier>
+        <amount currency="GBP">26153.14</amount>
+      </record>
+      <record>
+        <ref>102596</ref>
+        <supplier>OVERTON HOUSE</supplier>
+        <amount currency="GBP">43383.86</amount>
+      </record>
+      <record>
+        <ref>100346</ref>
+        <supplier>OXFORD UNIVERSITY PRESS</supplier>
+        <amount currency="GBP">5844</amount>
+      </record>
+      <record>
+        <ref>138510</ref>
+        <supplier>OXYGEN SUPPORT SERVICES</supplier>
+        <amount currency="GBP">10246.96</amount>
+      </record>
+      <record>
+        <ref>101183</ref>
+        <supplier>P F CUSACK (TOOLS SUPPLIES) LTD</supplier>
+        <amount currency="GBP">1400</amount>
+      </record>
+      <record>
+        <ref>3113</ref>
+        <supplier>P MCGUINNESS &amp; CO LTD</supplier>
+        <amount currency="GBP">4463.84</amount>
+      </record>
+      <record>
+        <ref>102700</ref>
+        <supplier>PACT</supplier>
+        <amount currency="GBP">4125</amount>
+      </record>
+      <record>
+        <ref>123219</ref>
+        <supplier>PAKFLATT UK LTD</supplier>
+        <amount currency="GBP">1993</amount>
+      </record>
+      <record>
+        <ref>141054</ref>
+        <supplier>PAM STEVENSON</supplier>
+        <amount currency="GBP">2657.2</amount>
+      </record>
+      <record>
+        <ref>134533</ref>
+        <supplier>PAPERLATE LTD T/A PEBBLE PROMOTIONS</supplier>
+        <amount currency="GBP">665</amount>
+      </record>
+      <record>
+        <ref>127332</ref>
+        <supplier>PAPERWORK (UK) LTD</supplier>
+        <amount currency="GBP">885.42</amount>
+      </record>
+      <record>
+        <ref>102512</ref>
+        <supplier>PARISH OF ST JOHN THE EVANGELIST</supplier>
+        <amount currency="GBP">5000</amount>
+      </record>
+      <record>
+        <ref>137420</ref>
+        <supplier>PARK AVENUE DAY NURSERY</supplier>
+        <amount currency="GBP">2384</amount>
+      </record>
+      <record>
+        <ref>103505</ref>
+        <supplier>PARK PLAYGROUP</supplier>
+        <amount currency="GBP">5302.14</amount>
+      </record>
+      <record>
+        <ref>113394</ref>
+        <supplier>PARKEON LTD</supplier>
+        <amount currency="GBP">25914.72</amount>
+      </record>
+      <record>
+        <ref>101988</ref>
+        <supplier>PARTINGTON TOWN COUNCIL</supplier>
+        <amount currency="GBP">66163</amount>
+      </record>
+      <record>
+        <ref>138462</ref>
+        <supplier>PARTNERSHIP CARING LTD</supplier>
+        <amount currency="GBP">7817.14</amount>
+      </record>
+      <record>
+        <ref>102094</ref>
+        <supplier>PASSHALL LTD</supplier>
+        <amount currency="GBP">55300.41</amount>
+      </record>
+      <record>
+        <ref>102820</ref>
+        <supplier>PATON BROWN LTD</supplier>
+        <amount currency="GBP">54855.97</amount>
+      </record>
+      <record>
+        <ref>138485</ref>
+        <supplier>PATROL</supplier>
+        <amount currency="GBP">3565.9</amount>
+      </record>
+      <record>
+        <ref>3332</ref>
+        <supplier>PAUL GRAINGE GROUNDS MAINTENANCE</supplier>
+        <amount currency="GBP">10578.07</amount>
+      </record>
+      <record>
+        <ref>113023</ref>
+        <supplier>PAUL JACKSON T/A DPD PRINT &amp;
+        PROMOT</supplier>
+        <amount currency="GBP">1440.81</amount>
+      </record>
+      <record>
+        <ref>113475</ref>
+        <supplier>PAULA DAVITT</supplier>
+        <amount currency="GBP">1175</amount>
+      </record>
+      <record>
+        <ref>136219</ref>
+        <supplier>PAULINE COPELAND</supplier>
+        <amount currency="GBP">1050</amount>
+      </record>
+      <record>
+        <ref>105473</ref>
+        <supplier>PAULINE MCHUGH</supplier>
+        <amount currency="GBP">822.5</amount>
+      </record>
+      <record>
+        <ref>100246</ref>
+        <supplier>PAVILION PUBLISHING (BIGHTON) LTD</supplier>
+        <amount currency="GBP">792</amount>
+      </record>
+      <record>
+        <ref>106209</ref>
+        <supplier>PAYPARTNERS LTD</supplier>
+        <amount currency="GBP">3729.6</amount>
+      </record>
+      <record>
+        <ref>135574</ref>
+        <supplier>PEARSON ASSESSMENT</supplier>
+        <amount currency="GBP">530.94</amount>
+      </record>
+      <record>
+        <ref>131151</ref>
+        <supplier>PENARTH GROUP (KAMINA HOUSE)</supplier>
+        <amount currency="GBP">25050</amount>
+      </record>
+      <record>
+        <ref>119049</ref>
+        <supplier>PENDLETON CARE LIMITED</supplier>
+        <amount currency="GBP">140632.71</amount>
+      </record>
+      <record>
+        <ref>127029</ref>
+        <supplier>PENDLETON COURT CARE CENTRE</supplier>
+        <amount currency="GBP">5713.74</amount>
+      </record>
+      <record>
+        <ref>100931</ref>
+        <supplier>PENNINE NURSING LIMITED</supplier>
+        <amount currency="GBP">4817.54</amount>
+      </record>
+      <record>
+        <ref>106426</ref>
+        <supplier>PERFORMING RIGHT SOCIETY LTD</supplier>
+        <amount currency="GBP">1233.87</amount>
+      </record>
+      <record>
+        <ref>100402</ref>
+        <supplier>PETER BOLTON LIMITED</supplier>
+        <amount currency="GBP">3319</amount>
+      </record>
+      <record>
+        <ref>135788</ref>
+        <supplier>PETER DOUGLASS PLATFORMS</supplier>
+        <amount currency="GBP">1170</amount>
+      </record>
+      <record>
+        <ref>141389</ref>
+        <supplier>PHIL LYON ENTERPRISES LTD T/A SOUND</supplier>
+        <amount currency="GBP">2037.02</amount>
+      </record>
+      <record>
+        <ref>141208</ref>
+        <supplier>PHILIP BENNETT (INGWOOD) LTD</supplier>
+        <amount currency="GBP">6678.1</amount>
+      </record>
+      <record>
+        <ref>132986</ref>
+        <supplier>PHOENIX FUTURES</supplier>
+        <amount currency="GBP">237365.5</amount>
+      </record>
+      <record>
+        <ref>100012</ref>
+        <supplier>PHOENIX PRESS</supplier>
+        <amount currency="GBP">625</amount>
+      </record>
+      <record>
+        <ref>108629</ref>
+        <supplier>PHOENIX TRAINING</supplier>
+        <amount currency="GBP">2400</amount>
+      </record>
+      <record>
+        <ref>135122</ref>
+        <supplier>PHONAK UK LTD</supplier>
+        <amount currency="GBP">3532</amount>
+      </record>
+      <record>
+        <ref>101948</ref>
+        <supplier>PHS GROUP PLC</supplier>
+        <amount currency="GBP">4899.99</amount>
+      </record>
+      <record>
+        <ref>119793</ref>
+        <supplier>PLAY WORKS</supplier>
+        <amount currency="GBP">1495.01</amount>
+      </record>
+      <record>
+        <ref>143013</ref>
+        <supplier>PMMS LTD</supplier>
+        <amount currency="GBP">2762.6</amount>
+      </record>
+      <record>
+        <ref>102926</ref>
+        <supplier>POLONIA HOME</supplier>
+        <amount currency="GBP">4590.56</amount>
+      </record>
+      <record>
+        <ref>103375</ref>
+        <supplier>POTENSIAL LTD</supplier>
+        <amount currency="GBP">26097.1</amount>
+      </record>
+      <record>
+        <ref>138083</ref>
+        <supplier>POULTONS LTD</supplier>
+        <amount currency="GBP">6558.53</amount>
+      </record>
+      <record>
+        <ref>142742</ref>
+        <supplier>POWERLEAGUE SOCCER DOME (TRAFFORD)</supplier>
+        <amount currency="GBP">3211.92</amount>
+      </record>
+      <record>
+        <ref>142732</ref>
+        <supplier>PP O'CONNOR LIMITED</supplier>
+        <amount currency="GBP">13837.5</amount>
+      </record>
+      <record>
+        <ref>133278</ref>
+        <supplier>PPMA</supplier>
+        <amount currency="GBP">790</amount>
+      </record>
+      <record>
+        <ref>100910</ref>
+        <supplier>PREFS LIMITED</supplier>
+        <amount currency="GBP">1155</amount>
+      </record>
+      <record>
+        <ref>126135</ref>
+        <supplier>PREMIER CARE</supplier>
+        <amount currency="GBP">171739.33</amount>
+      </record>
+      <record>
+        <ref>103533</ref>
+        <supplier>PREMIER EDUCATION LTD</supplier>
+        <amount currency="GBP">11316</amount>
+      </record>
+      <record>
+        <ref>101801</ref>
+        <supplier>PREMIER FOSTER CARE LTD</supplier>
+        <amount currency="GBP">92561.12</amount>
+      </record>
+      <record>
+        <ref>102287</ref>
+        <supplier>PREMIER HOMES</supplier>
+        <amount currency="GBP">46998.35</amount>
+      </record>
+      <record>
+        <ref>142106</ref>
+        <supplier>PREMIERE PRODUCTS</supplier>
+        <amount currency="GBP">1818.4</amount>
+      </record>
+      <record>
+        <ref>142433</ref>
+        <supplier>PRESS ASSOCIATION IMAGES</supplier>
+        <amount currency="GBP">900</amount>
+      </record>
+      <record>
+        <ref>133355</ref>
+        <supplier>PROFILE SECURITY SERVICES LTD</supplier>
+        <amount currency="GBP">20122.29</amount>
+      </record>
+      <record>
+        <ref>127529</ref>
+        <supplier>PROGRESS ADULT SERVICES LTD</supplier>
+        <amount currency="GBP">43401.54</amount>
+      </record>
+      <record>
+        <ref>101346</ref>
+        <supplier>PROGRESS CARE HOUSING ASSOCIATION</supplier>
+        <amount currency="GBP">855.96</amount>
+      </record>
+      <record>
+        <ref>118189</ref>
+        <supplier>PROLUDIC LTD</supplier>
+        <amount currency="GBP">2333</amount>
+      </record>
+      <record>
+        <ref>120590</ref>
+        <supplier>PROQUEST INFORMATION &amp; LEARNING
+        LTD</supplier>
+        <amount currency="GBP">5426.4</amount>
+      </record>
+      <record>
+        <ref>138599</ref>
+        <supplier>PROSYS INTERNATIONAL LTD</supplier>
+        <amount currency="GBP">679.5</amount>
+      </record>
+      <record>
+        <ref>3103</ref>
+        <supplier>PROTEC FIRE DETECTION</supplier>
+        <amount currency="GBP">721.91</amount>
+      </record>
+      <record>
+        <ref>3122</ref>
+        <supplier>PSI (RESOURCES) LIMITED</supplier>
+        <amount currency="GBP">6138.66</amount>
+      </record>
+      <record>
+        <ref>105990</ref>
+        <supplier>PSU OF POYNTON LTD</supplier>
+        <amount currency="GBP">532.17</amount>
+      </record>
+      <record>
+        <ref>100868</ref>
+        <supplier>PUDSEY DIAMOND ENGINEERING LTD</supplier>
+        <amount currency="GBP">1873.06</amount>
+      </record>
+      <record>
+        <ref>107717</ref>
+        <supplier>PURE MUSIC MANUFACTURING LIMITED</supplier>
+        <amount currency="GBP">540</amount>
+      </record>
+      <record>
+        <ref>104782</ref>
+        <supplier>QA LTD</supplier>
+        <amount currency="GBP">4944</amount>
+      </record>
+      <record>
+        <ref>134291</ref>
+        <supplier>Q-PARK LTD</supplier>
+        <amount currency="GBP">46045</amount>
+      </record>
+      <record>
+        <ref>138066</ref>
+        <supplier>QUALIFIT LTD</supplier>
+        <amount currency="GBP">3616</amount>
+      </record>
+      <record>
+        <ref>137321</ref>
+        <supplier>QUALITAS CARE LIMITED</supplier>
+        <amount currency="GBP">8843.31</amount>
+      </record>
+      <record>
+        <ref>3064</ref>
+        <supplier>QUARTZELEC LIMITED</supplier>
+        <amount currency="GBP">30136.84</amount>
+      </record>
+      <record>
+        <ref>101262</ref>
+        <supplier>QUAYSIDE CARE LTD</supplier>
+        <amount currency="GBP">698.75</amount>
+      </record>
+      <record>
+        <ref>138621</ref>
+        <supplier>QUBE VOCATIONAL DEVELOPMENT LIMITED</supplier>
+        <amount currency="GBP">1500</amount>
+      </record>
+      <record>
+        <ref>142776</ref>
+        <supplier>QUICKHEART LTD</supplier>
+        <amount currency="GBP">15000</amount>
+      </record>
+      <record>
+        <ref>104255</ref>
+        <supplier>R BULLOCK &amp; CO (TRANSPORT) LTD</supplier>
+        <amount currency="GBP">555.64</amount>
+      </record>
+      <record>
+        <ref>3006</ref>
+        <supplier>R PURCELL CIVIL ENG CONTRACTORS LTD</supplier>
+        <amount currency="GBP">267089.36</amount>
+      </record>
+      <record>
+        <ref>141714</ref>
+        <supplier>RACE EQUALITY FOUNDATION</supplier>
+        <amount currency="GBP">960</amount>
+      </record>
+      <record>
+        <ref>142535</ref>
+        <supplier>RACHEL COSTIGAN T/A GRASSHOPPER CFT</supplier>
+        <amount currency="GBP">1800</amount>
+      </record>
+      <record>
+        <ref>115013</ref>
+        <supplier>RACHEL DAVIS CHILDMINDER</supplier>
+        <amount currency="GBP">2078</amount>
+      </record>
+      <record>
+        <ref>142113</ref>
+        <supplier>RAINBOW MOBILITY LTD</supplier>
+        <amount currency="GBP">1258.01</amount>
+      </record>
+      <record>
+        <ref>140808</ref>
+        <supplier>RANDSTAD CARE LTD</supplier>
+        <amount currency="GBP">15684.5</amount>
+      </record>
+      <record>
+        <ref>100948</ref>
+        <supplier>RANDSTAD EDUCATION LTD</supplier>
+        <amount currency="GBP">1650</amount>
+      </record>
+      <record>
+        <ref>100471</ref>
+        <supplier>RANGEMORE HOMES LTD</supplier>
+        <amount currency="GBP">39119.77</amount>
+      </record>
+      <record>
+        <ref>106212</ref>
+        <supplier>RASCALS O.O.S.C.</supplier>
+        <amount currency="GBP">1566</amount>
+      </record>
+      <record>
+        <ref>132229</ref>
+        <supplier>RATHBONE</supplier>
+        <amount currency="GBP">8640</amount>
+      </record>
+      <record>
+        <ref>126188</ref>
+        <supplier>RCD</supplier>
+        <amount currency="GBP">513</amount>
+      </record>
+      <record>
+        <ref>121901</ref>
+        <supplier>REAL JUSTICE LTD</supplier>
+        <amount currency="GBP">1050</amount>
+      </record>
+      <record>
+        <ref>143016</ref>
+        <supplier>REDACTIVE EVENTS LTD</supplier>
+        <amount currency="GBP">725</amount>
+      </record>
+      <record>
+        <ref>142624</ref>
+        <supplier>REDDY-MADE CONSULTANCY</supplier>
+        <amount currency="GBP">2462</amount>
+      </record>
+      <record>
+        <ref>100351</ref>
+        <supplier>REED ELSEVIER LTD/T/A LEXISNEXIS UK</supplier>
+        <amount currency="GBP">8368</amount>
+      </record>
+      <record>
+        <ref>102123</ref>
+        <supplier>RELATE GMS</supplier>
+        <amount currency="GBP">47762</amount>
+      </record>
+      <record>
+        <ref>132345</ref>
+        <supplier>RFA ASSOCIATES LTD</supplier>
+        <amount currency="GBP">18949.96</amount>
+      </record>
+      <record>
+        <ref>134860</ref>
+        <supplier>RIC MICHAEL</supplier>
+        <amount currency="GBP">550</amount>
+      </record>
+      <record>
+        <ref>142955</ref>
+        <supplier>RICHARD ALDERSON</supplier>
+        <amount currency="GBP">1290</amount>
+      </record>
+      <record>
+        <ref>113019</ref>
+        <supplier>RICHARD EVANS</supplier>
+        <amount currency="GBP">3825</amount>
+      </record>
+      <record>
+        <ref>101488</ref>
+        <supplier>RICHARD L THOMAS ASSOCIATES LTD</supplier>
+        <amount currency="GBP">5230.14</amount>
+      </record>
+      <record>
+        <ref>120580</ref>
+        <supplier>RICHARD RAMCHURN</supplier>
+        <amount currency="GBP">2208</amount>
+      </record>
+      <record>
+        <ref>101758</ref>
+        <supplier>RICHMOND HOUSE KINDERGARTEN</supplier>
+        <amount currency="GBP">5661.22</amount>
+      </record>
+      <record>
+        <ref>104465</ref>
+        <supplier>RICS</supplier>
+        <amount currency="GBP">1845</amount>
+      </record>
+      <record>
+        <ref>105376</ref>
+        <supplier>RIGBY TAYLOR LTD</supplier>
+        <amount currency="GBP">1674.5</amount>
+      </record>
+      <record>
+        <ref>103447</ref>
+        <supplier>RILEY CHILDCARE LTD T/A DAVYHULME D</supplier>
+        <amount currency="GBP">7225.56</amount>
+      </record>
+      <record>
+        <ref>100547</ref>
+        <supplier>RISHWORTH DESIGN ASSOCIATES</supplier>
+        <amount currency="GBP">20734.5</amount>
+      </record>
+      <record>
+        <ref>103250</ref>
+        <supplier>RNIB</supplier>
+        <amount currency="GBP">1975.05</amount>
+      </record>
+      <record>
+        <ref>101453</ref>
+        <supplier>RNID</supplier>
+        <amount currency="GBP">1726.4</amount>
+      </record>
+      <record>
+        <ref>3121</ref>
+        <supplier>ROAD MAINTENANCE SERVICES LTD</supplier>
+        <amount currency="GBP">6623.79</amount>
+      </record>
+      <record>
+        <ref>3078</ref>
+        <supplier>ROBERT LEIBRICK &amp; CO</supplier>
+        <amount currency="GBP">4163</amount>
+      </record>
+      <record>
+        <ref>137612</ref>
+        <supplier>ROBERTS CANTEEN LTD</supplier>
+        <amount currency="GBP">3284</amount>
+      </record>
+      <record>
+        <ref>104106</ref>
+        <supplier>ROBINSON TRAVEL</supplier>
+        <amount currency="GBP">5760</amount>
+      </record>
+      <record>
+        <ref>142875</ref>
+        <supplier>ROGER TYM &amp; PARTNERS</supplier>
+        <amount currency="GBP">21296.25</amount>
+      </record>
+      <record>
+        <ref>116680</ref>
+        <supplier>ROOKERY HOUSE</supplier>
+        <amount currency="GBP">22955.4</amount>
+      </record>
+      <record>
+        <ref>103206</ref>
+        <supplier>ROSPA</supplier>
+        <amount currency="GBP">4428</amount>
+      </record>
+      <record>
+        <ref>136630</ref>
+        <supplier>ROY LYON ASSOCIATES LIMITED</supplier>
+        <amount currency="GBP">3950</amount>
+      </record>
+      <record>
+        <ref>102119</ref>
+        <supplier>ROYAL MAIL</supplier>
+        <amount currency="GBP">4110.8</amount>
+      </record>
+      <record>
+        <ref>109942</ref>
+        <supplier>ROYAL MASONIC BENEVOLENT INST'N</supplier>
+        <amount currency="GBP">3122.57</amount>
+      </record>
+      <record>
+        <ref>101728</ref>
+        <supplier>RSG ENGINEERING LTD</supplier>
+        <amount currency="GBP">978.01</amount>
+      </record>
+      <record>
+        <ref>130670</ref>
+        <supplier>RSM TENON LTD</supplier>
+        <amount currency="GBP">2425</amount>
+      </record>
+      <record>
+        <ref>132514</ref>
+        <supplier>RUSKIN MILL EDUCATIONAL TRUST</supplier>
+        <amount currency="GBP">4236.51</amount>
+      </record>
+      <record>
+        <ref>132423</ref>
+        <supplier>RUTH STOCKLEY</supplier>
+        <amount currency="GBP">805</amount>
+      </record>
+      <record>
+        <ref>131464</ref>
+        <supplier>RUTLAND CARE HOME LIMITED</supplier>
+        <amount currency="GBP">5054.78</amount>
+      </record>
+      <record>
+        <ref>100616</ref>
+        <supplier>S I SEALY &amp; ASSOCIATES LTD</supplier>
+        <amount currency="GBP">74212.13</amount>
+      </record>
+      <record>
+        <ref>4086</ref>
+        <supplier>SAFE &amp; SECURE (UK) LTD</supplier>
+        <amount currency="GBP">690.33</amount>
+      </record>
+      <record>
+        <ref>107104</ref>
+        <supplier>SAFECARE SERVICES LTD</supplier>
+        <amount currency="GBP">1430</amount>
+      </record>
+      <record>
+        <ref>127387</ref>
+        <supplier>SAFEHOUSES NORTH LTD</supplier>
+        <amount currency="GBP">5092.86</amount>
+      </record>
+      <record>
+        <ref>100366</ref>
+        <supplier>SAINT JOHN OF GOD CARE SERVICES</supplier>
+        <amount currency="GBP">14865.12</amount>
+      </record>
+      <record>
+        <ref>100292</ref>
+        <supplier>SALE &amp; ALTRINCHAM MENCAP</supplier>
+        <amount currency="GBP">15009.14</amount>
+      </record>
+      <record>
+        <ref>113064</ref>
+        <supplier>SALE ALMSHOUSES</supplier>
+        <amount currency="GBP">650.1</amount>
+      </record>
+      <record>
+        <ref>136687</ref>
+        <supplier>SALE CAREFORCE</supplier>
+        <amount currency="GBP">84656.22</amount>
+      </record>
+      <record>
+        <ref>113184</ref>
+        <supplier>SALE MOOR COM. PARTNERSHIP LTD</supplier>
+        <amount currency="GBP">5000</amount>
+      </record>
+      <record>
+        <ref>103502</ref>
+        <supplier>SALE PRIVATE DAY NURSERY LTD</supplier>
+        <amount currency="GBP">18138.78</amount>
+      </record>
+      <record>
+        <ref>123432</ref>
+        <supplier>SALLY HAIR &amp; BEAUTY SUPPLIES LTD</supplier>
+        <amount currency="GBP">3760</amount>
+      </record>
+      <record>
+        <ref>142788</ref>
+        <supplier>SALT &amp; PEGRAM</supplier>
+        <amount currency="GBP">10571.54</amount>
+      </record>
+      <record>
+        <ref>109553</ref>
+        <supplier>SALT UNION LTD</supplier>
+        <amount currency="GBP">1845.53</amount>
+      </record>
+      <record>
+        <ref>100425</ref>
+        <supplier>SALVATION ARMY</supplier>
+        <amount currency="GBP">2575</amount>
+      </record>
+      <record>
+        <ref>101312</ref>
+        <supplier>SAP (UK) LTD</supplier>
+        <amount currency="GBP">12735</amount>
+      </record>
+      <record>
+        <ref>135783</ref>
+        <supplier>SARA SWANN</supplier>
+        <amount currency="GBP">538.64</amount>
+      </record>
+      <record>
+        <ref>135046</ref>
+        <supplier>SARAH DONALDSON</supplier>
+        <amount currency="GBP">528.75</amount>
+      </record>
+      <record>
+        <ref>138574</ref>
+        <supplier>SAUL AINSWORTH</supplier>
+        <amount currency="GBP">2836.9</amount>
+      </record>
+      <record>
+        <ref>130391</ref>
+        <supplier>SAY IT WITH SIGN</supplier>
+        <amount currency="GBP">1080</amount>
+      </record>
+      <record>
+        <ref>102335</ref>
+        <supplier>SCOPE</supplier>
+        <amount currency="GBP">141950.61</amount>
+      </record>
+      <record>
+        <ref>137226</ref>
+        <supplier>SCOTT WILSON LTD</supplier>
+        <amount currency="GBP">9472</amount>
+      </record>
+      <record>
+        <ref>136082</ref>
+        <supplier>SCOTTS OF SALE PRIVATE HIRE LLP</supplier>
+        <amount currency="GBP">12605.25</amount>
+      </record>
+      <record>
+        <ref>142802</ref>
+        <supplier>SCRIPTI</supplier>
+        <amount currency="GBP">2100</amount>
+      </record>
+      <record>
+        <ref>103899</ref>
+        <supplier>SEASHELL TRUST LTD</supplier>
+        <amount currency="GBP">6903.33</amount>
+      </record>
+      <record>
+        <ref>138138</ref>
+        <supplier>SELFUNLIMITED</supplier>
+        <amount currency="GBP">27865.44</amount>
+      </record>
+      <record>
+        <ref>100032</ref>
+        <supplier>SEN FAMILIES SUPPORT GROUP LTD</supplier>
+        <amount currency="GBP">5000</amount>
+      </record>
+      <record>
+        <ref>100677</ref>
+        <supplier>SENSE</supplier>
+        <amount currency="GBP">54614.67</amount>
+      </record>
+      <record>
+        <ref>133050</ref>
+        <supplier>SERCO LTD</supplier>
+        <amount currency="GBP">24850</amount>
+      </record>
+      <record>
+        <ref>100675</ref>
+        <supplier>SHARSTON HOUSE NURSING HOME</supplier>
+        <amount currency="GBP">9126.88</amount>
+      </record>
+      <record>
+        <ref>101113</ref>
+        <supplier>SHAW &amp; SONS LTD</supplier>
+        <amount currency="GBP">2496.43</amount>
+      </record>
+      <record>
+        <ref>102528</ref>
+        <supplier>SHAWE HOUSE NURSING HOME</supplier>
+        <amount currency="GBP">134021.27</amount>
+      </record>
+      <record>
+        <ref>101702</ref>
+        <supplier>SHELTER</supplier>
+        <amount currency="GBP">4166.66</amount>
+      </record>
+      <record>
+        <ref>135866</ref>
+        <supplier>SHERRIFF AMENITY LTD</supplier>
+        <amount currency="GBP">1717.5</amount>
+      </record>
+      <record>
+        <ref>104481</ref>
+        <supplier>SIGHT &amp; SOUND TECHNOLOGY LTD</supplier>
+        <amount currency="GBP">807.51</amount>
+      </record>
+      <record>
+        <ref>129074</ref>
+        <supplier>SIGNALONG GROUP</supplier>
+        <amount currency="GBP">1427.5</amount>
+      </record>
+      <record>
+        <ref>101569</ref>
+        <supplier>SIGNATURE LTD</supplier>
+        <amount currency="GBP">21833.17</amount>
+      </record>
+      <record>
+        <ref>130487</ref>
+        <supplier>SIGNET SIGNS LIMITED</supplier>
+        <amount currency="GBP">601</amount>
+      </record>
+      <record>
+        <ref>101639</ref>
+        <supplier>SIGNHEALTH</supplier>
+        <amount currency="GBP">1345.75</amount>
+      </record>
+      <record>
+        <ref>100737</ref>
+        <supplier>SIGNPOST SOLUTIONS LIMITED</supplier>
+        <amount currency="GBP">535.22</amount>
+      </record>
+      <record>
+        <ref>105346</ref>
+        <supplier>SILK GROUP LTD</supplier>
+        <amount currency="GBP">1710.51</amount>
+      </record>
+      <record>
+        <ref>114270</ref>
+        <supplier>SKILLDRIVE LTD</supplier>
+        <amount currency="GBP">745</amount>
+      </record>
+      <record>
+        <ref>142029</ref>
+        <supplier>SKILLS DEVELOPMENT SERVICE LTD</supplier>
+        <amount currency="GBP">1596.01</amount>
+      </record>
+      <record>
+        <ref>129716</ref>
+        <supplier>SKYREACH ACCESS SOLUTIONS LTD</supplier>
+        <amount currency="GBP">595</amount>
+      </record>
+      <record>
+        <ref>101667</ref>
+        <supplier>SMITH BROS (CAER CONAN) WHOLESE LTD</supplier>
+        <amount currency="GBP">49054.08</amount>
+      </record>
+      <record>
+        <ref>3091</ref>
+        <supplier>SOFT SURFACES LTD</supplier>
+        <amount currency="GBP">1025</amount>
+      </record>
+      <record>
+        <ref>137638</ref>
+        <supplier>SOLUTIONS SK LIMITED</supplier>
+        <amount currency="GBP">972.86</amount>
+      </record>
+      <record>
+        <ref>102906</ref>
+        <supplier>SOS HOMECARE</supplier>
+        <amount currency="GBP">175772.96</amount>
+      </record>
+      <record>
+        <ref>101929</ref>
+        <supplier>SOUTH MANCHESTER RADIO CABS LTD</supplier>
+        <amount currency="GBP">6654</amount>
+      </record>
+      <record>
+        <ref>100613</ref>
+        <supplier>SOUTHERN CROSS HEALTHCARE</supplier>
+        <amount currency="GBP">144759.05</amount>
+      </record>
+      <record>
+        <ref>134415</ref>
+        <supplier>SOUTHERN CROSS HEALTHCARE LTD</supplier>
+        <amount currency="GBP">14632.53</amount>
+      </record>
+      <record>
+        <ref>100379</ref>
+        <supplier>SOUTHFIELDS CARE HOMES LIMITED</supplier>
+        <amount currency="GBP">20418.18</amount>
+      </record>
+      <record>
+        <ref>3737</ref>
+        <supplier>SPEAKMANS LTD</supplier>
+        <amount currency="GBP">1568.59</amount>
+      </record>
+      <record>
+        <ref>102071</ref>
+        <supplier>SPEED COURIERS (NORTHERN) LTD</supplier>
+        <amount currency="GBP">7100.05</amount>
+      </record>
+      <record>
+        <ref>143167</ref>
+        <supplier>SPIRIT DATA CAPTURE LIMITED</supplier>
+        <amount currency="GBP">4905</amount>
+      </record>
+      <record>
+        <ref>142773</ref>
+        <supplier>SPORT ENGLAND</supplier>
+        <amount currency="GBP">8795</amount>
+      </record>
+      <record>
+        <ref>141923</ref>
+        <supplier>SPRINGCARE (SANDIWAY) LTD</supplier>
+        <amount currency="GBP">4897.5</amount>
+      </record>
+      <record>
+        <ref>101159</ref>
+        <supplier>SSI SCHAEFER LTD</supplier>
+        <amount currency="GBP">36001.54</amount>
+      </record>
+      <record>
+        <ref>103494</ref>
+        <supplier>ST JOHN'S PRE-SCHOOL PLAYGROUP</supplier>
+        <amount currency="GBP">5136.4</amount>
+      </record>
+      <record>
+        <ref>101795</ref>
+        <supplier>ST JOSEPH'S PRE-SCHOOL</supplier>
+        <amount currency="GBP">4465.69</amount>
+      </record>
+      <record>
+        <ref>139685</ref>
+        <supplier>ST MARYS CONTINUING CARE LTD</supplier>
+        <amount currency="GBP">40066.02</amount>
+      </record>
+      <record>
+        <ref>141906</ref>
+        <supplier>ST PETER'S HALE ASSEMBLY ROOMS</supplier>
+        <amount currency="GBP">1187.5</amount>
+      </record>
+      <record>
+        <ref>131504</ref>
+        <supplier>ST VINCENT'S NURSERY</supplier>
+        <amount currency="GBP">18467.61</amount>
+      </record>
+      <record>
+        <ref>133375</ref>
+        <supplier>STAGE ELECTRICS PARTNERSHIP LTD</supplier>
+        <amount currency="GBP">1105.27</amount>
+      </record>
+      <record>
+        <ref>132595</ref>
+        <supplier>STAGECOACH SERVICES LTD</supplier>
+        <amount currency="GBP">1020</amount>
+      </record>
+      <record>
+        <ref>102230</ref>
+        <supplier>STATIONERY OFFICE LTD</supplier>
+        <amount currency="GBP">515.26</amount>
+      </record>
+      <record>
+        <ref>140345</ref>
+        <supplier>STEFFCO LTD T/A RESOURCE PRINT SOLU</supplier>
+        <amount currency="GBP">1171.39</amount>
+      </record>
+      <record>
+        <ref>141919</ref>
+        <supplier>STEPHEN J SAUVAIN QC</supplier>
+        <amount currency="GBP">1880</amount>
+      </record>
+      <record>
+        <ref>124400</ref>
+        <supplier>STEVEN WALL</supplier>
+        <amount currency="GBP">5636</amount>
+      </record>
+      <record>
+        <ref>104228</ref>
+        <supplier>STOCKDALES</supplier>
+        <amount currency="GBP">179196.3</amount>
+      </record>
+      <record>
+        <ref>100399</ref>
+        <supplier>STOCKPORT CEREBRAL PALSY SOCIETY</supplier>
+        <amount currency="GBP">15016</amount>
+      </record>
+      <record>
+        <ref>104058</ref>
+        <supplier>STOCKPORT COLLEGE</supplier>
+        <amount currency="GBP">674.25</amount>
+      </record>
+      <record>
+        <ref>101532</ref>
+        <supplier>STOCKPORT FIRE PROTECTION LTD</supplier>
+        <amount currency="GBP">1514.36</amount>
+      </record>
+      <record>
+        <ref>4136</ref>
+        <supplier>STONE CENTRAL (NW) LTD</supplier>
+        <amount currency="GBP">12602.21</amount>
+      </record>
+      <record>
+        <ref>132796</ref>
+        <supplier>STOREYS:SSP</supplier>
+        <amount currency="GBP">7333.05</amount>
+      </record>
+      <record>
+        <ref>134229</ref>
+        <supplier>STREETWISE UK MANAGEMENT LTD</supplier>
+        <amount currency="GBP">750</amount>
+      </record>
+      <record>
+        <ref>142181</ref>
+        <supplier>STROKE ASSOCIATION</supplier>
+        <amount currency="GBP">14867.25</amount>
+      </record>
+      <record>
+        <ref>3801</ref>
+        <supplier>SUB SOIL SURVEYS LTD</supplier>
+        <amount currency="GBP">890.25</amount>
+      </record>
+      <record>
+        <ref>119172</ref>
+        <supplier>SUE RYDER CARE HOMCARE SERVICES</supplier>
+        <amount currency="GBP">72989.69</amount>
+      </record>
+      <record>
+        <ref>132622</ref>
+        <supplier>SUNRIDGE COURT</supplier>
+        <amount currency="GBP">5894.98</amount>
+      </record>
+      <record>
+        <ref>138401</ref>
+        <supplier>SUNRISE OPERATIONS HALE BARNES LTD</supplier>
+        <amount currency="GBP">25175.44</amount>
+      </record>
+      <record>
+        <ref>105835</ref>
+        <supplier>SUNRISE SENIOR LIVING</supplier>
+        <amount currency="GBP">7718.1</amount>
+      </record>
+      <record>
+        <ref>3163</ref>
+        <supplier>SUREFOLD</supplier>
+        <amount currency="GBP">664.41</amount>
+      </record>
+      <record>
+        <ref>105997</ref>
+        <supplier>SWALEC</supplier>
+        <amount currency="GBP">220422.47</amount>
+      </record>
+      <record>
+        <ref>130379</ref>
+        <supplier>SWALLOWDALE</supplier>
+        <amount currency="GBP">7621.37</amount>
+      </record>
+      <record>
+        <ref>102933</ref>
+        <supplier>SWIIS FOSTER CARE LTD</supplier>
+        <amount currency="GBP">80940</amount>
+      </record>
+      <record>
+        <ref>142372</ref>
+        <supplier>T H ENTERTAINMENT LTD</supplier>
+        <amount currency="GBP">2000</amount>
+      </record>
+      <record>
+        <ref>120303</ref>
+        <supplier>T/A ABACUS TRAVEL SERVICE</supplier>
+        <amount currency="GBP">105345.2</amount>
+      </record>
+      <record>
+        <ref>134655</ref>
+        <supplier>T/A KELLY MEDIA</supplier>
+        <amount currency="GBP">1400</amount>
+      </record>
+      <record>
+        <ref>130533</ref>
+        <supplier>T/A PCP LT /PCP MEDIA/ PCP OUTDOOR</supplier>
+        <amount currency="GBP">2000</amount>
+      </record>
+      <record>
+        <ref>100738</ref>
+        <supplier>TALIS INFORMATION LTD</supplier>
+        <amount currency="GBP">39032.02</amount>
+      </record>
+      <record>
+        <ref>3425</ref>
+        <supplier>TARMAC LIMITED</supplier>
+        <amount currency="GBP">371356.88</amount>
+      </record>
+      <record>
+        <ref>135286</ref>
+        <supplier>TAXIFONE NORTHWEST LIMITED</supplier>
+        <amount currency="GBP">3464.62</amount>
+      </record>
+      <record>
+        <ref>113542</ref>
+        <supplier>TAYLOR ELECTRONICS (M/CR) LTD</supplier>
+        <amount currency="GBP">5725.8</amount>
+      </record>
+      <record>
+        <ref>100291</ref>
+        <supplier>TAYLORMADE CASTINGS</supplier>
+        <amount currency="GBP">615</amount>
+      </record>
+      <record>
+        <ref>108691</ref>
+        <supplier>TC TRAVEL LIMITED</supplier>
+        <amount currency="GBP">62048.2</amount>
+      </record>
+      <record>
+        <ref>103855</ref>
+        <supplier>TCS SERVICES LTD</supplier>
+        <amount currency="GBP">13125.75</amount>
+      </record>
+      <record>
+        <ref>104216</ref>
+        <supplier>TEAM (ENERGY AUDITING AGENCY)</supplier>
+        <amount currency="GBP">950</amount>
+      </record>
+      <record>
+        <ref>137250</ref>
+        <supplier>TEAM SPIRIT EVENT MANAGEMENT LTD</supplier>
+        <amount currency="GBP">2562.5</amount>
+      </record>
+      <record>
+        <ref>114294</ref>
+        <supplier>TEAM TEACH LTD</supplier>
+        <amount currency="GBP">1182</amount>
+      </record>
+      <record>
+        <ref>141903</ref>
+        <supplier>TELL TALE HEARTS LTD</supplier>
+        <amount currency="GBP">600</amount>
+      </record>
+      <record>
+        <ref>104968</ref>
+        <supplier>TEMPLEBANK LTD</supplier>
+        <amount currency="GBP">8397.35</amount>
+      </record>
+      <record>
+        <ref>3016</ref>
+        <supplier>TERRY GROUP LIMITED</supplier>
+        <amount currency="GBP">10803</amount>
+      </record>
+      <record>
+        <ref>137094</ref>
+        <supplier>THE TRANSMITTER</supplier>
+        <amount currency="GBP">5000</amount>
+      </record>
+      <record>
+        <ref>127616</ref>
+        <supplier>THE VICARAGE</supplier>
+        <amount currency="GBP">4808.2</amount>
+      </record>
+      <record>
+        <ref>100313</ref>
+        <supplier>THE WHITEHOUSE</supplier>
+        <amount currency="GBP">16103.3</amount>
+      </record>
+      <record>
+        <ref>103780</ref>
+        <supplier>THELWALL GRANGE</supplier>
+        <amount currency="GBP">9471.82</amount>
+      </record>
+      <record>
+        <ref>136076</ref>
+        <supplier>THERA NORTH</supplier>
+        <amount currency="GBP">13306</amount>
+      </record>
+      <record>
+        <ref>101978</ref>
+        <supplier>THOMAS FATTORINI LTD</supplier>
+        <amount currency="GBP">651.96</amount>
+      </record>
+      <record>
+        <ref>100247</ref>
+        <supplier>THOMAS TELFORD LIMITED</supplier>
+        <amount currency="GBP">1750.01</amount>
+      </record>
+      <record>
+        <ref>126740</ref>
+        <supplier>THOMAS YATES</supplier>
+        <amount currency="GBP">3510</amount>
+      </record>
+      <record>
+        <ref>133848</ref>
+        <supplier>THORNTON LODGE</supplier>
+        <amount currency="GBP">9718.8</amount>
+      </record>
+      <record>
+        <ref>101827</ref>
+        <supplier>THREE ROSES HOMES LIMITED</supplier>
+        <amount currency="GBP">5947.96</amount>
+      </record>
+      <record>
+        <ref>136904</ref>
+        <supplier>TILHILL FORESTRY LTD</supplier>
+        <amount currency="GBP">101613.32</amount>
+      </record>
+      <record>
+        <ref>102544</ref>
+        <supplier>TILL &amp; WHITEHEAD LTD</supplier>
+        <amount currency="GBP">506.2</amount>
+      </record>
+      <record>
+        <ref>142934</ref>
+        <supplier>TIMIAN TRAINING AND DEVELOPMENT</supplier>
+        <amount currency="GBP">1125</amount>
+      </record>
+      <record>
+        <ref>100586</ref>
+        <supplier>TLC COACHES</supplier>
+        <amount currency="GBP">2880</amount>
+      </record>
+      <record>
+        <ref>101682</ref>
+        <supplier>TLC PRIVATE HOME CARE SERVICES</supplier>
+        <amount currency="GBP">187611.36</amount>
+      </record>
+      <record>
+        <ref>102017</ref>
+        <supplier>TML HEATING SERVICES</supplier>
+        <amount currency="GBP">3800</amount>
+      </record>
+      <record>
+        <ref>103544</ref>
+        <supplier>TNT POST NORTH LTD</supplier>
+        <amount currency="GBP">31401.73</amount>
+      </record>
+      <record>
+        <ref>101330</ref>
+        <supplier>TOGETHER TRUST</supplier>
+        <amount currency="GBP">228074.09</amount>
+      </record>
+      <record>
+        <ref>141850</ref>
+        <supplier>TOTAL ID</supplier>
+        <amount currency="GBP">809.75</amount>
+      </record>
+      <record>
+        <ref>122267</ref>
+        <supplier>TOUCHBASE MANCHESTER</supplier>
+        <amount currency="GBP">936.17</amount>
+      </record>
+      <record>
+        <ref>126393</ref>
+        <supplier>TOUCHDOWN DANCE</supplier>
+        <amount currency="GBP">1666.5</amount>
+      </record>
+      <record>
+        <ref>142132</ref>
+        <supplier>TOURISM QUALITY SERVICES LTD</supplier>
+        <amount currency="GBP">715</amount>
+      </record>
+      <record>
+        <ref>119145</ref>
+        <supplier>TRAFFIC ENFORCEMENT CENTRE</supplier>
+        <amount currency="GBP">10000</amount>
+      </record>
+      <record>
+        <ref>100312</ref>
+        <supplier>TRAFFORD ATHLETIC CLUB</supplier>
+        <amount currency="GBP">20380.52</amount>
+      </record>
+      <record>
+        <ref>101570</ref>
+        <supplier>TRAFFORD CARS LTD</supplier>
+        <amount currency="GBP">1848</amount>
+      </record>
+      <record>
+        <ref>102755</ref>
+        <supplier>TRAFFORD HEALTHCARE NHS TRUST</supplier>
+        <amount currency="GBP">72614.75</amount>
+      </record>
+      <record>
+        <ref>122236</ref>
+        <supplier>TRAFFORD HOUSING TRUST</supplier>
+        <amount currency="GBP">54591.01</amount>
+      </record>
+      <record>
+        <ref>114243</ref>
+        <supplier>TRAFFORD LAW CENTRE</supplier>
+        <amount currency="GBP">7500</amount>
+      </record>
+      <record>
+        <ref>132609</ref>
+        <supplier>TRAFFORD MUSLIM ASSOCATION</supplier>
+        <amount currency="GBP">5125</amount>
+      </record>
+      <record>
+        <ref>105715</ref>
+        <supplier>TRAFFORD PRIMARY CARE TRUST</supplier>
+        <amount currency="GBP">156254.73</amount>
+      </record>
+      <record>
+        <ref>101996</ref>
+        <supplier>TRAFFORD UNITED CREDIT UNION LTD</supplier>
+        <amount currency="GBP">36804</amount>
+      </record>
+      <record>
+        <ref>142917</ref>
+        <supplier>TRAFFORD WHEELERS</supplier>
+        <amount currency="GBP">1000</amount>
+      </record>
+      <record>
+        <ref>100166</ref>
+        <supplier>TRAFFORD WOMENS AID</supplier>
+        <amount currency="GBP">16592.86</amount>
+      </record>
+      <record>
+        <ref>127967</ref>
+        <supplier>TRANSLINC LTD</supplier>
+        <amount currency="GBP">209539.85</amount>
+      </record>
+      <record>
+        <ref>138515</ref>
+        <supplier>TRAVELERS INSURANCE CO LTD</supplier>
+        <amount currency="GBP">29867.96</amount>
+      </record>
+      <record>
+        <ref>140134</ref>
+        <supplier>TRAVELERS MANAGEMENT LTD</supplier>
+        <amount currency="GBP">65000</amount>
+      </record>
+      <record>
+        <ref>138460</ref>
+        <supplier>TREVOR RISING</supplier>
+        <amount currency="GBP">975</amount>
+      </record>
+      <record>
+        <ref>141429</ref>
+        <supplier>TRIBAL EDUCATION LIMITED</supplier>
+        <amount currency="GBP">4564.15</amount>
+      </record>
+      <record>
+        <ref>137589</ref>
+        <supplier>TRIBAL RESOURCING LIMITED</supplier>
+        <amount currency="GBP">11180.22</amount>
+      </record>
+      <record>
+        <ref>128121</ref>
+        <supplier>TRIMAR CARE LIMITED</supplier>
+        <amount currency="GBP">14918.84</amount>
+      </record>
+      <record>
+        <ref>102462</ref>
+        <supplier>TRINITY MERCHANTS LIMITED</supplier>
+        <amount currency="GBP">93063.1</amount>
+      </record>
+      <record>
+        <ref>141876</ref>
+        <supplier>TRU LTD</supplier>
+        <amount currency="GBP">8142.86</amount>
+      </record>
+      <record>
+        <ref>140010</ref>
+        <supplier>TRUSTEES OF IPS PENSION BUILDER</supplier>
+        <amount currency="GBP">7616.31</amount>
+      </record>
+      <record>
+        <ref>141209</ref>
+        <supplier>TUDOR CARE HOME</supplier>
+        <amount currency="GBP">5208.05</amount>
+      </record>
+      <record>
+        <ref>137359</ref>
+        <supplier>TURNAROUND</supplier>
+        <amount currency="GBP">156275</amount>
+      </record>
+      <record>
+        <ref>105222</ref>
+        <supplier>TURNING POINT SERVICES LTD</supplier>
+        <amount currency="GBP">43250</amount>
+      </record>
+      <record>
+        <ref>104364</ref>
+        <supplier>TXL PRODUCTS LTD</supplier>
+        <amount currency="GBP">7858.84</amount>
+      </record>
+      <record>
+        <ref>101565</ref>
+        <supplier>UK CONTAINER MAINTENANCE LIMITED</supplier>
+        <amount currency="GBP">13606.05</amount>
+      </record>
+      <record>
+        <ref>105264</ref>
+        <supplier>UK YOUTH</supplier>
+        <amount currency="GBP">810.9</amount>
+      </record>
+      <record>
+        <ref>100084</ref>
+        <supplier>ULTRASOL</supplier>
+        <amount currency="GBP">9073.51</amount>
+      </record>
+      <record>
+        <ref>3626</ref>
+        <supplier>UNINTERRUPTIBLE POWER SUPPLIES LTD</supplier>
+        <amount currency="GBP">2228.17</amount>
+      </record>
+      <record>
+        <ref>133642</ref>
+        <supplier>UNITE</supplier>
+        <amount currency="GBP">1674.42</amount>
+      </record>
+      <record>
+        <ref>130868</ref>
+        <supplier>UNITED CARPETS</supplier>
+        <amount currency="GBP">576.85</amount>
+      </record>
+      <record>
+        <ref>116645</ref>
+        <supplier>UNITED RESPONSE</supplier>
+        <amount currency="GBP">74232.79</amount>
+      </record>
+      <record>
+        <ref>133438</ref>
+        <supplier>UNITED UTILITES WATER FITTINGS</supplier>
+        <amount currency="GBP">1553.89</amount>
+      </record>
+      <record>
+        <ref>106054</ref>
+        <supplier>UNITED UTILITIES ELECTRICITY PLC</supplier>
+        <amount currency="GBP">4399.98</amount>
+      </record>
+      <record>
+        <ref>3876</ref>
+        <supplier>UNITED UTILITIES ELECTRICITY SERVICE</supplier>
+        <amount currency="GBP">42768.34</amount>
+      </record>
+      <record>
+        <ref>102049</ref>
+        <supplier>UNITED UTILITIES WATER PLC</supplier>
+        <amount currency="GBP">63329.18</amount>
+      </record>
+      <record>
+        <ref>4140</ref>
+        <supplier>URBAN PROGRESS C.I.C.</supplier>
+        <amount currency="GBP">10737.36</amount>
+      </record>
+      <record>
+        <ref>100842</ref>
+        <supplier>URBIS LIGHTING LTD</supplier>
+        <amount currency="GBP">48091.87</amount>
+      </record>
+      <record>
+        <ref>102293</ref>
+        <supplier>URMSTON COTTAGE M/CR LTD</supplier>
+        <amount currency="GBP">134149.12</amount>
+      </record>
+      <record>
+        <ref>102065</ref>
+        <supplier>URMSTON MANOR</supplier>
+        <amount currency="GBP">22563.7</amount>
+      </record>
+      <record>
+        <ref>141557</ref>
+        <supplier>URSHULA HARRIES</supplier>
+        <amount currency="GBP">600</amount>
+      </record>
+      <record>
+        <ref>103703</ref>
+        <supplier>VALMONT STAINTON LTD</supplier>
+        <amount currency="GBP">13178</amount>
+      </record>
+      <record>
+        <ref>102122</ref>
+        <supplier>VCAT</supplier>
+        <amount currency="GBP">64145.68</amount>
+      </record>
+      <record>
+        <ref>101426</ref>
+        <supplier>VEGETABLE OIL MANAGEMENT LTD</supplier>
+        <amount currency="GBP">1387.5</amount>
+      </record>
+      <record>
+        <ref>100907</ref>
+        <supplier>VEOLIA ES (UK) LTD</supplier>
+        <amount currency="GBP">738052.04</amount>
+      </record>
+      <record>
+        <ref>101992</ref>
+        <supplier>VICTIM SUPPORT</supplier>
+        <amount currency="GBP">23903</amount>
+      </record>
+      <record>
+        <ref>119609</ref>
+        <supplier>VIGLEN LIMITED</supplier>
+        <amount currency="GBP">42226.2</amount>
+      </record>
+      <record>
+        <ref>100409</ref>
+        <supplier>VIP-SYSTEM LTD</supplier>
+        <amount currency="GBP">2386.94</amount>
+      </record>
+      <record>
+        <ref>103166</ref>
+        <supplier>VIRGIN MEDIA LTD</supplier>
+        <amount currency="GBP">1890</amount>
+      </record>
+      <record>
+        <ref>133211</ref>
+        <supplier>VISION OUTDOOR LIMITED</supplier>
+        <amount currency="GBP">3330</amount>
+      </record>
+      <record>
+        <ref>101526</ref>
+        <supplier>VISTA SIGNS LIMITED</supplier>
+        <amount currency="GBP">1691.3</amount>
+      </record>
+      <record>
+        <ref>131183</ref>
+        <supplier>VISUAL IMPACT NORTHERN LIMITED</supplier>
+        <amount currency="GBP">511</amount>
+      </record>
+      <record>
+        <ref>105469</ref>
+        <supplier>VITAX LIMITED</supplier>
+        <amount currency="GBP">2211</amount>
+      </record>
+      <record>
+        <ref>142857</ref>
+        <supplier>VIVID ACOUSTIC SYSTEMS LTD</supplier>
+        <amount currency="GBP">7000</amount>
+      </record>
+      <record>
+        <ref>3536</ref>
+        <supplier>VLC (STAIRLIFTS) LIMITED</supplier>
+        <amount currency="GBP">33351.94</amount>
+      </record>
+      <record>
+        <ref>122986</ref>
+        <supplier>VOYAGE LTD</supplier>
+        <amount currency="GBP">18778.24</amount>
+      </record>
+      <record>
+        <ref>101741</ref>
+        <supplier>W F HOWES LTD</supplier>
+        <amount currency="GBP">1545.76</amount>
+      </record>
+      <record>
+        <ref>100878</ref>
+        <supplier>W J O'SHEA</supplier>
+        <amount currency="GBP">2918.7</amount>
+      </record>
+      <record>
+        <ref>132828</ref>
+        <supplier>W V HOWE LTD</supplier>
+        <amount currency="GBP">1056.7</amount>
+      </record>
+      <record>
+        <ref>141952</ref>
+        <supplier>WAI YIN CHINESE WOMEN SOCIETY</supplier>
+        <amount currency="GBP">1875</amount>
+      </record>
+      <record>
+        <ref>140244</ref>
+        <supplier>WALKDEN MANOR CARE HOME LTD</supplier>
+        <amount currency="GBP">4952.86</amount>
+      </record>
+      <record>
+        <ref>101985</ref>
+        <supplier>WARBURTON PARISH COUNCIL</supplier>
+        <amount currency="GBP">3478</amount>
+      </record>
+      <record>
+        <ref>101632</ref>
+        <supplier>WARGRAVE HOUSE SCHOOL</supplier>
+        <amount currency="GBP">8487.5</amount>
+      </record>
+      <record>
+        <ref>129708</ref>
+        <supplier>WARWICK IC SYSTEMS</supplier>
+        <amount currency="GBP">1704.34</amount>
+      </record>
+      <record>
+        <ref>127232</ref>
+        <supplier>WATERMAN ASPEN LTD</supplier>
+        <amount currency="GBP">4864</amount>
+      </record>
+      <record>
+        <ref>122940</ref>
+        <supplier>WDM LTD</supplier>
+        <amount currency="GBP">7660.92</amount>
+      </record>
+      <record>
+        <ref>140815</ref>
+        <supplier>WELLACRE TECHNOLOGY COLLEGE</supplier>
+        <amount currency="GBP">2345</amount>
+      </record>
+      <record>
+        <ref>134313</ref>
+        <supplier>WELLCROFT</supplier>
+        <amount currency="GBP">5525.64</amount>
+      </record>
+      <record>
+        <ref>106384</ref>
+        <supplier>WESCO UK LTD</supplier>
+        <amount currency="GBP">2628.3</amount>
+      </record>
+      <record>
+        <ref>113279</ref>
+        <supplier>WESTCO BILANCIAI</supplier>
+        <amount currency="GBP">1565</amount>
+      </record>
+      <record>
+        <ref>124460</ref>
+        <supplier>WESTERN ENVIRONMENTAL LIMITED</supplier>
+        <amount currency="GBP">6340</amount>
+      </record>
+      <record>
+        <ref>105882</ref>
+        <supplier>WHITELEGG ALMSHOUSES</supplier>
+        <amount currency="GBP">1099.8</amount>
+      </record>
+      <record>
+        <ref>3155</ref>
+        <supplier>WICKSTEED LEISURE LTD</supplier>
+        <amount currency="GBP">1425.63</amount>
+      </record>
+      <record>
+        <ref>143435</ref>
+        <supplier>WIGAN YOUTH OFFENDING TEAM</supplier>
+        <amount currency="GBP">3784.58</amount>
+      </record>
+      <record>
+        <ref>100058</ref>
+        <supplier>WILKINSON COWAN PARTNERSHIP</supplier>
+        <amount currency="GBP">1200</amount>
+      </record>
+      <record>
+        <ref>137644</ref>
+        <supplier>WILLIAMS REFRIDGERATION CENTRAL LTD</supplier>
+        <amount currency="GBP">1175</amount>
+      </record>
+      <record>
+        <ref>131764</ref>
+        <supplier>WILLOWDENE REHABILITATION LTD</supplier>
+        <amount currency="GBP">11630.14</amount>
+      </record>
+      <record>
+        <ref>128362</ref>
+        <supplier>WILLOWS NURSING HOME</supplier>
+        <amount currency="GBP">29843.1</amount>
+      </record>
+      <record>
+        <ref>101654</ref>
+        <supplier>WIRRAL AUTISTIC SOCIETY</supplier>
+        <amount currency="GBP">22837.62</amount>
+      </record>
+      <record>
+        <ref>101231</ref>
+        <supplier>WM SMITH &amp; SONS (BARNARDCASTLE)
+        LTD</supplier>
+        <amount currency="GBP">1044.52</amount>
+      </record>
+      <record>
+        <ref>101388</ref>
+        <supplier>WOLTERS KLUWER (UK) LTD</supplier>
+        <amount currency="GBP">1636.77</amount>
+      </record>
+      <record>
+        <ref>134280</ref>
+        <supplier>WOODLANDS CARE GRP LTD</supplier>
+        <amount currency="GBP">5345.98</amount>
+      </record>
+      <record>
+        <ref>130428</ref>
+        <supplier>WOODLANDS NURSERY LTD</supplier>
+        <amount currency="GBP">6692.36</amount>
+      </record>
+      <record>
+        <ref>100754</ref>
+        <supplier>WOODLANDS RESPITE CARE CENTRE</supplier>
+        <amount currency="GBP">1677.4</amount>
+      </record>
+      <record>
+        <ref>103601</ref>
+        <supplier>WOODLEA RESIDENTIAL CARE HOME</supplier>
+        <amount currency="GBP">16157.32</amount>
+      </record>
+      <record>
+        <ref>141540</ref>
+        <supplier>WOODSEND SCOUT HUT</supplier>
+        <amount currency="GBP">600</amount>
+      </record>
+      <record>
+        <ref>112317</ref>
+        <supplier>WOODSTOCK SIGNS</supplier>
+        <amount currency="GBP">775</amount>
+      </record>
+      <record>
+        <ref>142923</ref>
+        <supplier>WORMS EYE GEOTECHNICAL LTD</supplier>
+        <amount currency="GBP">3161</amount>
+      </record>
+      <record>
+        <ref>124120</ref>
+        <supplier>WORSLEY LODGE CARE CENTRE</supplier>
+        <amount currency="GBP">9905.72</amount>
+      </record>
+      <record>
+        <ref>101892</ref>
+        <supplier>WYNCOURT NURSING HOME LTD</supplier>
+        <amount currency="GBP">23317.86</amount>
+      </record>
+      <record>
+        <ref>107897</ref>
+        <supplier>XMA LIMITED</supplier>
+        <amount currency="GBP">996.78</amount>
+      </record>
+      <record>
+        <ref>102586</ref>
+        <supplier>YORK LODGE PRIVATE REST HOME</supplier>
+        <amount currency="GBP">51028.79</amount>
+      </record>
+      <record>
+        <ref>101497</ref>
+        <supplier>YORKLEA NURSING HOME</supplier>
+        <amount currency="GBP">10985.65</amount>
+      </record>
+      <record>
+        <ref>101656</ref>
+        <supplier>YORKSHIRE PURCHASING ORGANISATION</supplier>
+        <amount currency="GBP">6690.39</amount>
+      </record>
+      <record>
+        <ref>131905</ref>
+        <supplier>YOUBUS.CO.UK (MARTIN JEFFRIES)</supplier>
+        <amount currency="GBP">22667</amount>
+      </record>
+      <record>
+        <ref>120585</ref>
+        <supplier>YOUNG PEOPLE IN FOCUS LTD</supplier>
+        <amount currency="GBP">3257.49</amount>
+      </record>
+      <record>
+        <ref>103946</ref>
+        <supplier>YOUTH JUSTICE BOARD ENG/WALES</supplier>
+        <amount currency="GBP">3775.82</amount>
+      </record>
+      <record>
+        <ref>101580</ref>
+        <supplier>YVONNE WOLSTENHOLME</supplier>
+        <amount currency="GBP">1394</amount>
+      </record>
+      <record>
+        <ref>122407</ref>
+        <supplier>ZOE RHYDDERCH-EVANS</supplier>
+        <amount currency="GBP">1640.74</amount>
+      </record>
+      <record>
+        <ref>114206</ref>
+        <supplier>ZURICH MUNICIPAL</supplier>
+        <amount currency="GBP">256334</amount>
+      </record>
+      <record>
+        <ref>109505</ref>
+        <supplier>ZURICH MUNICIPAL MANAGEMENT SERV</supplier>
+        <amount currency="GBP">2000</amount>
+      </record>
+      <period></period>
+    </period>
+  </periods>
+</supplier-spend>

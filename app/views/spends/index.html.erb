@@ -1,0 +1,25 @@
+<div id="content">
+	<h1>Trafford Council Supplier Spend</h1>
+	
+	<p>2010 Q2 (April, May & June)</p>
+
+	<table>
+	  <tr>
+	    <th>Supplier</th>
+	    <th align="right">Amount</th>
+	  </tr>
+
+	<% @spends.each_with_index do |spend, i| %>
+	<% row_class = i%2 == 0 ? "even" : "odd" %> 
+	  <tr class="<%= row_class %>">
+	    <td><%= link_to spend.supplier, "http://www.google.co.uk/#hl=en&q="+spend.supplier, :target => "blank" %></td>
+	    <td class="amount"><%=h number_to_currency(spend.amount, :unit => "£") %></td>
+	  </tr>
+	<% end %>
+	</table>
+	
+	<p>Data from <a href="http://www.trafford.gov.uk/opendata/">Trafford Council</a>. Built by <a href="http://bobop.co.uk">bobop</a></p>
+
+	<p><a href="http://www.opendatamanchester.org.uk"><img src="images/logo_sq_135.png" border="0"></a></p>
+	
+</div>
