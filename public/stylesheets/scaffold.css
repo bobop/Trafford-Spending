@@ -27,11 +27,13 @@ a:hover { color: #fff; background-color:#000; }
 	text-align:center;
 }
 #content .buttons {
-	float:right;
-	text-align:right;
+	width:500px;
+	height:30px;
+	vertical-align:top;
+	line-height:40px;
 }
 #content .buttons span {
-	padding-top:10px;
+	float:right;
 }
 #content table {
 	text-align:left;

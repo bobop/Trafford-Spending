@@ -3774,3 +3774,165 @@ Rendering template within layouts/spends
 Rendering spends/index
   [4;36;1mSpend Columns (2.0ms)[0m   [0;1mSHOW FIELDS FROM `spends`[0m
 Completed in 877ms (View: 846, DB: 9) | 200 OK [http://localhost/]
+  [4;35;1mSQL (2.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:15:47) [GET]
+  [4;36;1mSpend Load (6.5ms)[0m   [0;1mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;35;1mSpend Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `spends`[0m
+Completed in 1027ms (View: 864, DB: 11) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:16:17) [GET]
+  [4;35;1mSpend Load (5.6ms)[0m   [0mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;36;1mSpend Columns (1.9ms)[0m   [0;1mSHOW FIELDS FROM `spends`[0m
+Completed in 1012ms (View: 983, DB: 8) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:17:19) [GET]
+  [4;36;1mSpend Load (6.6ms)[0m   [0;1mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;35;1mSpend Columns (2.1ms)[0m   [0mSHOW FIELDS FROM `spends`[0m
+Completed in 923ms (View: 892, DB: 9) | 200 OK [http://localhost/]
+  [4;36;1mSQL (1.5ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:19:01) [GET]
+  [4;35;1mSpend Load (6.9ms)[0m   [0mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;36;1mSpend Columns (78.2ms)[0m   [0;1mSHOW FIELDS FROM `spends`[0m
+Completed in 1087ms (View: 980, DB: 87) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:19:51) [GET]
+  [4;36;1mSpend Load (5.9ms)[0m   [0;1mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;35;1mSpend Columns (2.1ms)[0m   [0mSHOW FIELDS FROM `spends`[0m
+Completed in 869ms (View: 839, DB: 8) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:20:44) [GET]
+  [4;35;1mSpend Load (6.2ms)[0m   [0mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;36;1mSpend Columns (2.0ms)[0m   [0;1mSHOW FIELDS FROM `spends`[0m
+Completed in 1006ms (View: 844, DB: 8) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:20:59) [GET]
+  [4;36;1mSpend Load (5.6ms)[0m   [0;1mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;35;1mSpend Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `spends`[0m
+Completed in 1081ms (View: 1051, DB: 8) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:21:11) [GET]
+  [4;35;1mSpend Load (6.0ms)[0m   [0mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;36;1mSpend Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `spends`[0m
+Completed in 873ms (View: 843, DB: 8) | 200 OK [http://localhost/]
+  [4;35;1mSQL (3.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:21:46) [GET]
+  [4;36;1mSpend Load (5.7ms)[0m   [0;1mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;35;1mSpend Columns (264.4ms)[0m   [0mSHOW FIELDS FROM `spends`[0m
+Completed in 1265ms (View: 973, DB: 274) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:22:36) [GET]
+  [4;35;1mSpend Load (5.6ms)[0m   [0mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;36;1mSpend Columns (2.3ms)[0m   [0;1mSHOW FIELDS FROM `spends`[0m
+Completed in 864ms (View: 833, DB: 8) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:23:06) [GET]
+  [4;36;1mSpend Load (6.0ms)[0m   [0;1mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;35;1mSpend Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `spends`[0m
+Completed in 1000ms (View: 970, DB: 8) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:23:31) [GET]
+  [4;35;1mSpend Load (5.6ms)[0m   [0mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;36;1mSpend Columns (2.0ms)[0m   [0;1mSHOW FIELDS FROM `spends`[0m
+Completed in 865ms (View: 836, DB: 8) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:24:12) [GET]
+  [4;36;1mSpend Load (6.6ms)[0m   [0;1mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;35;1mSpend Columns (5.9ms)[0m   [0mSHOW FIELDS FROM `spends`[0m
+Completed in 1058ms (View: 877, DB: 13) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:24:52) [GET]
+  [4;35;1mSpend Load (5.6ms)[0m   [0mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;36;1mSpend Columns (2.0ms)[0m   [0;1mSHOW FIELDS FROM `spends`[0m
+Completed in 1001ms (View: 970, DB: 8) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:25:06) [GET]
+  [4;36;1mSpend Load (5.7ms)[0m   [0;1mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;35;1mSpend Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `spends`[0m
+Completed in 885ms (View: 855, DB: 8) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:25:55) [GET]
+  [4;35;1mSpend Load (5.8ms)[0m   [0mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;36;1mSpend Columns (53.8ms)[0m   [0;1mSHOW FIELDS FROM `spends`[0m
+Completed in 1058ms (View: 977, DB: 60) | 200 OK [http://localhost/]
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:26:21) [GET]
+  [4;36;1mSpend Load (6.2ms)[0m   [0;1mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;35;1mSpend Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `spends`[0m
+Completed in 874ms (View: 842, DB: 8) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SpendsController#index (for 127.0.0.1 at 2010-08-17 10:26:41) [GET]
+  [4;35;1mSpend Load (5.6ms)[0m   [0mSELECT * FROM `spends` ORDER BY amount DESC[0m
+Rendering template within layouts/spends
+Rendering spends/index
+  [4;36;1mSpend Columns (2.0ms)[0m   [0;1mSHOW FIELDS FROM `spends`[0m
+Completed in 1007ms (View: 977, DB: 8) | 200 OK [http://localhost/]
